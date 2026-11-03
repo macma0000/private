@@ -9,3 +9,4 @@
 7. (shown item 1, the cut of Chapter 1's first two sentences with *It* → *Nine*) "no. leave it as is. we'll think about it more later."
 8. (item 2, Chapter 2's opening, proposed text unchanged) "yes, next item"
 9. (item 3, line 100 of BOOK2-20261102: cut "This chapter gives each type's story in its own voice, followed by what that type usually cannot see about itself." and "this is the place to look for yourself" -> "[look for yourself in these stories]") "yes, next item"
+10. (item 4, Chapter 3's opening, new paragraph between lines 330 and 332, proposed text unchanged) "yes, next item"
