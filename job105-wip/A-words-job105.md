@@ -11,4 +11,6 @@
 9. (item 3, line 100 of BOOK2-20261102: cut "This chapter gives each type's story in its own voice, followed by what that type usually cannot see about itself." and "this is the place to look for yourself" -> "[look for yourself in these stories]") "yes, next item"
 10. (item 4, Chapter 3's opening, new paragraph between lines 330 and 332, proposed text unchanged) "yes, next item"
 11. (item 5, Chapter 4's opening, new paragraph between lines 358 and 360, proposed text unchanged) "yes, next item"
-12. (item 6, the opening of *Attraction, aversion, want and fear*, whose second sentence was *Behind every fear is a want.*) "from job99 doctrine, i agree:" followed by Job99's text, saved byte for byte as RELAY-from-job99-20261103.md
+12. (item 6, the opening of *Attraction, aversion, want and fear*, whose second sentence was *Behind every fear is a want.*) "from job99 doctrine, i agree:" followed by Job99's text, saved byte for byte as RELAY-from-job99-20261103.md, later renamed SUPERSEDED__live__RELAY-from-job99-20261103-0849.md when Job99 withdrew that answer and [A] added its answer under the bare name
+13. "what do you need to know from job99?"
+14. "see new file: RELAY-from-job99-20261103.md" (added by [A] to main at 4a74b1b; it holds Job99's answer to Job105's four questions and [A]'s rulings 12:16 to 13:07)
