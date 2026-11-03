@@ -7,3 +7,4 @@
 5. "push it to main too"
 6. "i can't follow the proposal file. walk me through the items."
 7. (shown item 1, the cut of Chapter 1's first two sentences with *It* → *Nine*) "no. leave it as is. we'll think about it more later."
+8. (item 2, Chapter 2's opening, proposed text unchanged) "yes, next item"
