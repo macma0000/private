@@ -1,0 +1,11 @@
+
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add github git@github.com:macma0000/private.git
+git push -u github main
+
+git config --global user.email "mac34@sublogical.com"
+git config --global user.name "macma0000"
+
