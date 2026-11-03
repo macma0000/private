@@ -18,3 +18,4 @@
 16. (item 7, opening of *Enthusiastic, cautious and detached*, between lines 372 and 374, proposed text unchanged) "yes, next item"
 17. (item 8, opening of *Taking in and noticing*, between lines 382 and 384, revised by [C] to the register's fixed *open to noticing*: "[A person takes in everything a realm holds, but notices only part of it. A person notices something when it bears on something the person wants or fears. The harder a want or a fear pulls, the less of anything else is open to noticing.]") "yes, next item"
 18. (item 9, opening of *Being caught, and what a person can bear*, between lines 404 and 406, proposed text unchanged, with line 406's "Each of the three [orientations] also comes ...") "yes, next item"
+19. (item 10, opening of *What a detached person does with a fear*) "\"[Fears still come to a detached person\" - i think \"still\" doesn't belong there."
