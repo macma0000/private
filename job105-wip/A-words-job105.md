@@ -28,3 +28,4 @@ STANDING INSTRUCTION from [A], 2026-11-03: when he says he has committed somethi
 25. A pasted block, saved byte for byte as RELAY-from-job99-20261103d.md: the wording [A] approved 2026-11-03 for point 2 of RELAY-from-job99-20261103c.md. Applied to the Chapter 4 draft as given.
 26. "go on"
 27. (Chapter 4's opening, redone for the new order) "yes. later, this part needs to be said : Only the same three orientations are possible toward the content of each realm. This book abbreviates them **A** (enthusiasm), ~~**B**(caution),~~ [**B** (caution),] and ~~**Z**(detachment).~~ [**Z** (detachment).]. it might belong in a summary of this section: "Enthusiastic, cautious and detached", followed by a summary of the contents."
+28. (opening of *Taking in and noticing*, with "everything [that happens in a realm]") "yes, next item"
