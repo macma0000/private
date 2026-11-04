@@ -32,7 +32,7 @@ A fear can be looked at and settled, or turned away from. A fear that was not se
 
 Denial can become very firm. When someone else points the thing out, the person in denial turns away from it again. Where the person would notice the thing, there is a blank. The blank may be replaced by a less threatening thought. Denial covers only the thing a person is in denial about. Everything else in the person's life can be noticed in the ordinary way.
 
-Turning away eases the anxiety for the moment. Neither the anxiety nor the easing is noticed. Both are taken in, and the easing is what holds the turning away in place. What the person feels afterwards is unease, with nothing to explain it. What a person has turned away from cannot be found by deliberately looking for it, because even trying to conceptualize it would probably set off the anxiety again. But the thing can come back into view by itself, at a time when nothing sets off the anxiety. And intuition can act on it, since only the person's awareness of it is blocked.
+Turning away eases the anxiety for the moment. Neither the anxiety nor the easing is noticed. Both are taken in. Each time the thing comes near, the anxiety returns, and turning away eases it again. The returning anxiety and the easing together hold the turning away in place. What the person feels afterwards is unease, with nothing to explain it. What a person has turned away from cannot be found by deliberately looking for it, because even trying to conceptualize it would probably set off the anxiety again. But the thing can come back into view by itself, at a time when nothing sets off the anxiety. And intuition can act on it, since only the person's awareness of it is blocked.
 
 ### Being caught, and what a person can bear
 
