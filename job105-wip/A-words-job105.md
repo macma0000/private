@@ -21,3 +21,6 @@
 19. (item 10, opening of *What a detached person does with a fear*) "\"[Fears still come to a detached person\" - i think \"still\" doesn't belong there."
 20. (after [C] asked whether Chapter 4 should say that the detached person's handling of a fear happens to everyone's fears) "i committed a file. it will be easier for me in the future if you search the repository when i say commited." The file is RELAY-from-job99-20261103b.md, on main at cd433df: Job99's new order for Chapter 4, with [A]'s 15:15 words and his 15:16 "yes".
 STANDING INSTRUCTION from [A], 2026-11-03: when he says he has committed something, fetch every branch of the repository and look for what is new, without asking.
+21. "how can i pull your draft?"
+22. "new commits" — on main at 88e1de9: DRAFT-chapter4-new-order-job105.md as [A] edited it, and RELAY-from-job99-20261103c.md (Job99's thirteen points; [A] 16:43 and 16:50 "i accept all of it.")
+23. ""@@" denote author comment."
