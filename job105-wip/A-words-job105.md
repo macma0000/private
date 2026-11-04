@@ -29,3 +29,4 @@ STANDING INSTRUCTION from [A], 2026-11-03: when he says he has committed somethi
 26. "go on"
 27. (Chapter 4's opening, redone for the new order) "yes. later, this part needs to be said : Only the same three orientations are possible toward the content of each realm. This book abbreviates them **A** (enthusiasm), ~~**B**(caution),~~ [**B** (caution),] and ~~**Z**(detachment).~~ [**Z** (detachment).]. it might belong in a summary of this section: "Enthusiastic, cautious and detached", followed by a summary of the contents."
 28. (opening of *Taking in and noticing*, with "everything [that happens in a realm]") "yes, next item"
+29. (opening of *Turning away from a fear*: "[A fear that grows to be more than a person can bear can leave the person in denial, turning away from what the fear is about before noticing it. Turning away eases the anxiety for the moment, and leaves an unease that nothing seems to explain.]") "yes, next item"
