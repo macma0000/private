@@ -24,3 +24,4 @@ STANDING INSTRUCTION from [A], 2026-11-03: when he says he has committed somethi
 21. "how can i pull your draft?"
 22. "new commits" — on main at 88e1de9: DRAFT-chapter4-new-order-job105.md as [A] edited it, and RELAY-from-job99-20261103c.md (Job99's thirteen points; [A] 16:43 and 16:50 "i accept all of it.")
 23. ""@@" denote author comment."
+24. (on the second Chapter 4 draft) ""[Some attractions and aversions also involve the will: craving and coveting on the side of attraction, hatred on the side of aversion.]" can we say that the earlier attractions and aversions don't involve the will?" Shown the will sentence moved back beside liking and disliking, with "[they do not involve the will,]" and "[Other attractions and aversions involve the will:]": "yes"

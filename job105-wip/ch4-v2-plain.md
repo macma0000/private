@@ -4,15 +4,13 @@ Only the same three orientations are possible toward the content of each realm. 
 
 ### Attraction, aversion, want and fear
 
-Attraction and aversion are the two directions in which a person can be drawn: toward something, or away from it. Some attractions and aversions are only felt. Liking and disliking are of this kind. They are not chosen, and they need not motivate the person to do anything.
+Attraction and aversion are the two directions in which a person can be drawn: toward something, or away from it. Some attractions and aversions are only felt. Liking and disliking are of this kind. They are not chosen, they do not involve the will, and they need not motivate the person to do anything. Other attractions and aversions involve the will: craving and coveting on the side of attraction, hatred on the side of aversion.
 
 A want is what motivates a person to bring something about: to have something, to keep it, or to be rid of it. An attraction can raise a want to have something or to keep it. An aversion can raise a want to be rid of something.
 
 A fear is an aversion to something that might happen, such as losing a job or spilling a cup of coffee. A fear can arise from an attraction, as the fear of losing someone arises from being drawn to them. A fear can also arise from an aversion, as the fear that a pain will return arises from disliking the pain. A fear motivates the person to keep the feared thing from happening. Once a fear is conceived, the prospect is present in the person's mind, so a fear works like any other aversion.
 
 A fear raised in a thought has a want behind it, the want the thought was about. Behind the fear of losing a job is the want to keep the job. Some fears are instinctual. A situation sets an instinctual fear off directly, with no want behind it. Instinctual fears are uncommon in ordinary adult life and common in infancy.
-
-Some attractions and aversions also involve the will: craving and coveting on the side of attraction, hatred on the side of aversion.
 
 ### Taking in and noticing
 
