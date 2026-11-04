@@ -1,7 +1,5 @@
 ## Chapter 4: The Three Orientations
 
-Only the same three orientations are possible toward the content of each realm. This book abbreviates them **A** (enthusiasm), **B** (caution), and **Z** (detachment).
-
 ### Attraction, aversion, want and fear
 
 Attraction and aversion are the two directions in which a person can be drawn: toward something, or away from it. Some attractions and aversions are only felt. Liking and disliking are of this kind. They are not chosen, they do not involve the will, and they need not motivate the person to do anything. Other attractions and aversions involve the will: craving and coveting on the side of attraction, hatred on the side of aversion.
