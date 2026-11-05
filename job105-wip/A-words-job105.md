@@ -40,3 +40,4 @@ FOR JOB99 (doctrine), unruled: [A]'s claim "In people where there are two differ
 36. (line 740: "describes which way a person ~~is pulled~~ [shifts a little] in growth and under stress") "yes, next item"
 37. (Chapter 6's opening, with "seems" restored from line 708) "yes, next item"
 38. (Chapter 7's opening, reworded to "shifts a little" and "when stress is low") ""which passes through a place for each of the three orientations" - i assume you don't say phases because they aren't introduced yet." Then: "yes, next item"
+39. (opening of *Forward*) ""Each step asks"->"Each step forward asks"?" [C] proposed the same in the last sentence ("what a step forward asks"). Then: "yes, next item"
