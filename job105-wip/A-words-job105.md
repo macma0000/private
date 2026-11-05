@@ -44,3 +44,5 @@ FOR JOB99 (doctrine), unruled: [A]'s claim "In people where there are two differ
 40. (opening of *Forward*) "go back to the previous question: i think "step" is wrong. what about "small movement"?" [C]: "small movement" clashes with line 738 and line 905; proposed *shift* for what a person does and *step* kept for the distance on the cycle, with line 752's three uses of *step* changed to match. "yes, next item"
 41. (opening of *Backward*, with "shifts a little") "yes, next item"
 42. (opening of *The two faces of detachment*) "yes, next item"
+43. (opening of *The smallest scale*) ""the cycle completes many times an hour." what cycle is that? if a thought it should match l 778." Shown line 788 "many times [a minute]" and the opening with the rate restored: "yes, next item"
+LATER STYLE PASS: line 788 "the one claim in this book you can check in the next sixty seconds" speaks about the book.

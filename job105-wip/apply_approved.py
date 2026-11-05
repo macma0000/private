@@ -96,5 +96,8 @@ insert_after_heading("### Backward", 'Under stress, a person shifts a little tow
 
 insert_after_heading("### The two faces of detachment", 'Detachment borders caution at one end and enthusiasm at the other, and a detached person handles a fear differently near each end: near caution the person looks at the fear, and near enthusiasm the person turns away from the fear.', "Two faces opening (11-05)")
 
+insert_after_heading("### The smallest scale", 'A thought passes through three places, one for each orientation, in the forward order, and when one thought ends the next thought begins. Thoughts run this way in everyone, whatever their type, many times a minute, and anyone can check the claim in their own thinking.', "Smallest scale opening (11-05)")
+once("It is a fact, completing many times an hour, in everyone", "It is a fact, completing many times a minute, in everyone", "line 788 (11-05)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
