@@ -36,3 +36,4 @@ STANDING INSTRUCTION from [A], 2026-11-03: when he says he has committed somethi
 FOR JOB99 (doctrine), unruled: [A]'s claim "In people where there are two different orientations one kind tends to overshadow the other." Not in the book (nearest: line 414, "whichever one a person is more deeply caught in"). Held out of the Chapter 5 opening until ruled.
 33. (line 434: "A person has one of [the three orientations] in the physical realm ...", going out "these three") "yes, next item"
 34. (line 696, *In Short*: "~~If the nine pairs are the nine types,~~ [Each] type's recognizable qualities ...") "yes, next item"
+35. (Part 2's opening) [A] pasted Job99's second relay of 2026-11-04, saved byte for byte as RELAY-from-job99-20261104b.md: his changes to the Part 2 opening (19:39, 19:45, 19:46 "yes, go on."), the Chapter 7 prediction paragraph, and five "pull" sites (19:53 "yes").
