@@ -99,5 +99,7 @@ insert_after_heading("### The two faces of detachment", 'Detachment borders caut
 insert_after_heading("### The smallest scale", 'A thought passes through three places, one for each orientation, in the forward order, and when one thought ends the next thought begins. Thoughts run this way in everyone, whatever their type, many times a minute, and anyone can check the claim in their own thinking.', "Smallest scale opening (11-05)")
 once("It is a fact, completing many times an hour, in everyone", "It is a fact, completing many times a minute, in everyone", "line 788 (11-05)")
 
+insert_after_heading("## Chapter 8: Relational Positions", "How two people get on depends partly on how their orientations compare, realm by realm. In each realm, either the two people hold the same orientation, or one of the two holds the orientation a step further along the order. The two comparisons together put every pair of types into one of six relative positions, and knowing two people's types is enough to know their relative position. Because the order comes back to its start, being a step further along is a place on a circle and not a rank, so no type is at the top. Every type has the same number of types in each relative position.", "Chapter 8 opening (11-05)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
