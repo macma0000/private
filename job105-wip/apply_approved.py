@@ -83,5 +83,7 @@ once("A lean is a pull toward one of the two orientations", "A lean is a shading
 
 once("The classical Enneagram describes which way a person is pulled in growth and under stress,", "The classical Enneagram describes which way a person shifts a little in growth and under stress,", "line 740 (11-05)")
 
+insert_after_heading("## Chapter 6: The Grid", "The nine types can be laid out in a table, with the three orientations in the physical realm along the top and the three orientations in the psychic realm down the side. Three of the nine types hold the same orientation in both realms. A person with the same orientation in both realms seems to have only ever noticed in one way, and takes their own way of noticing to be how things are. Six of the nine types hold a different orientation in each realm. The classical Enneagram joins the three types with the same orientation in both realms by a triangle, and joins the six types with two different orientations by a six-sided figure. A step from one type to a neighboring type in the table changes the orientation in one realm, or in both realms at once. Three pairs of types are made of the same two orientations with the realms exchanged: the One and the Eight, the Two and the Seven, and the Four and the Five.", "Chapter 6 opening (11-05)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)

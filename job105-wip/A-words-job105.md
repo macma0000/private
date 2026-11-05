@@ -38,3 +38,4 @@ FOR JOB99 (doctrine), unruled: [A]'s claim "In people where there are two differ
 34. (line 696, *In Short*: "~~If the nine pairs are the nine types,~~ [Each] type's recognizable qualities ...") "yes, next item"
 35. (Part 2's opening) [A] pasted Job99's second relay of 2026-11-04, saved byte for byte as RELAY-from-job99-20261104b.md: his changes to the Part 2 opening (19:39, 19:45, 19:46 "yes, go on."), the Chapter 7 prediction paragraph, and five "pull" sites (19:53 "yes").
 36. (line 740: "describes which way a person ~~is pulled~~ [shifts a little] in growth and under stress") "yes, next item"
+37. (Chapter 6's opening, with "seems" restored from line 708) "yes, next item"
