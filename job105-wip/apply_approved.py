@@ -94,5 +94,7 @@ once("In the case of each orientation, what the step requires is what such a per
 
 insert_after_heading("### Backward", 'Under stress, a person shifts a little toward the orientation one step back, and lands in a poor version of it: an enthusiastic person collapses into numb withdrawal, a detached person falls into anxious worry, and a cautious person panics into recklessness.', "Backward opening (11-05)")
 
+insert_after_heading("### The two faces of detachment", 'Detachment borders caution at one end and enthusiasm at the other, and a detached person handles a fear differently near each end: near caution the person looks at the fear, and near enthusiasm the person turns away from the fear.', "Two faces opening (11-05)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)

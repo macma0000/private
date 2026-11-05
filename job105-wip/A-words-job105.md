@@ -43,3 +43,4 @@ FOR JOB99 (doctrine), unruled: [A]'s claim "In people where there are two differ
 39. (opening of *Forward*) ""Each step asks"->"Each step forward asks"?" [C] proposed the same in the last sentence ("what a step forward asks"). Then: "yes, next item"
 40. (opening of *Forward*) "go back to the previous question: i think "step" is wrong. what about "small movement"?" [C]: "small movement" clashes with line 738 and line 905; proposed *shift* for what a person does and *step* kept for the distance on the cycle, with line 752's three uses of *step* changed to match. "yes, next item"
 41. (opening of *Backward*, with "shifts a little") "yes, next item"
+42. (opening of *The two faces of detachment*) "yes, next item"
