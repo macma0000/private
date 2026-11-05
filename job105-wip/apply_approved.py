@@ -92,5 +92,7 @@ insert_after_heading("### Forward", "A person tends toward the next orientation 
 once("In the case of each orientation, what the step requires is what such a person habitually resists. That is why the forward direction says what has to be true before a person takes a step, and not when they will take it. The less caught a person is in the orientation they hold, the more of what the step requires they can bear.",
      "In the case of each orientation, what the shift requires is what such a person habitually resists. That is why the forward direction says what has to be true before a person shifts forward, and not when the person will shift. The less caught a person is in the orientation they hold, the more of what the shift requires they can bear.", "line 752 (11-05)")
 
+insert_after_heading("### Backward", 'Under stress, a person shifts a little toward the orientation one step back, and lands in a poor version of it: an enthusiastic person collapses into numb withdrawal, a detached person falls into anxious worry, and a cautious person panics into recklessness.', "Backward opening (11-05)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
