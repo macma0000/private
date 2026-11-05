@@ -48,3 +48,4 @@ FOR JOB99 (doctrine), unruled: [A]'s claim "In people where there are two differ
 LATER STYLE PASS: line 788 "the one claim in this book you can check in the next sixty seconds" speaks about the book.
 44. (Chapter 8's opening) ""types in each position"->"types in each relative position"? then this relay:" — Job99's third relay of 2026-11-04, saved byte for byte as RELAY-from-job99-20261104c.md. Item 1 (the opening's last sentence goes) has [A]'s 20:30 and 20:31 words. Item 2 (the aligned-types paragraph, line 816) was shown to him at 20:28 but carries no separate yes: show it to him before applying.
 45. (Chapter 8's opening, last sentence out per the relay, "relative position" in all three places) "yes, next item"
+46. [A] pasted RELAY-from-job99-20261104c.md a second time, unchanged (not saved again). Asked again about its item 2, line 816: "yes, next item"

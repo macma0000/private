@@ -101,5 +101,8 @@ once("It is a fact, completing many times an hour, in everyone", "It is a fact, 
 
 insert_after_heading("## Chapter 8: Relational Positions", "How two people get on depends partly on how their orientations compare, realm by realm. In each realm, either the two people hold the same orientation, or one of the two holds the orientation a step further along the order. The two comparisons together put every pair of types into one of six relative positions, and knowing two people's types is enough to know their relative position. Because the order comes back to its start, being a step further along is a place on a circle and not a rank, so no type is at the top. Every type has the same number of types in each relative position.", "Chapter 8 opening (11-05)")
 
+once("The three aligned types reach one another only through the double positions. The Three is Double Ahead of the Nine, the Nine of the Six, and the Six of the Three, each by one step in each realm. The classical system",
+     "Between any two of the three aligned types, the position is always a double one. The Three is Double Ahead of the Nine, the Nine of the Six, and the Six of the Three, each by one step in each realm. With each of the six mixed types, an aligned type is Ahead, Behind or Equal, and never in a double position. The classical system", "line 816 (RELAY 20261104c item 2, yes 11-05)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
