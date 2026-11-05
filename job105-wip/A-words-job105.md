@@ -39,3 +39,4 @@ FOR JOB99 (doctrine), unruled: [A]'s claim "In people where there are two differ
 35. (Part 2's opening) [A] pasted Job99's second relay of 2026-11-04, saved byte for byte as RELAY-from-job99-20261104b.md: his changes to the Part 2 opening (19:39, 19:45, 19:46 "yes, go on."), the Chapter 7 prediction paragraph, and five "pull" sites (19:53 "yes").
 36. (line 740: "describes which way a person ~~is pulled~~ [shifts a little] in growth and under stress") "yes, next item"
 37. (Chapter 6's opening, with "seems" restored from line 708) "yes, next item"
+38. (Chapter 7's opening, reworded to "shifts a little" and "when stress is low") ""which passes through a place for each of the three orientations" - i assume you don't say phases because they aren't introduced yet." Then: "yes, next item"
