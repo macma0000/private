@@ -81,5 +81,7 @@ once("which way they are pulled from it, and how far", "which way the person shi
 once("each realm pulled toward the orientation behind it", "each realm shifting a little toward the orientation behind it", "Ch10 either end")
 once("A lean is a pull toward one of the two orientations", "A lean is a shading toward one of the two orientations", "Ch14 lean")
 
+once("The classical Enneagram describes which way a person is pulled in growth and under stress,", "The classical Enneagram describes which way a person shifts a little in growth and under stress,", "line 740 (11-05)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
