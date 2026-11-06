@@ -104,5 +104,7 @@ insert_after_heading("## Chapter 8: Relational Positions", "How two people get o
 once("The three aligned types reach one another only through the double positions. The Three is Double Ahead of the Nine, the Nine of the Six, and the Six of the Three, each by one step in each realm. The classical system",
      "Between any two of the three aligned types, the position is always a double one. The Three is Double Ahead of the Nine, the Nine of the Six, and the Six of the Three, each by one step in each realm. With each of the six mixed types, an aligned type is Ahead, Behind or Equal, and never in a double position. The classical system", "line 816 (RELAY 20261104c item 2, yes 11-05)")
 
+insert_after_heading("### What passes between them", 'Between two people a step apart in a realm, two different things pass: appreciation, which runs both ways, and looking up, which runs only from the person behind to the person ahead. Respect is a third thing, and respect does not depend on where anyone stands. Because the order of the orientations is a circle, three people can each correctly look up to the next, all the way round, which most descriptions of human development assume cannot happen.', "What passes between them opening (11-06)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)

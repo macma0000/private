@@ -50,3 +50,4 @@ LATER STYLE PASS: line 788 "the one claim in this book you can check in the next
 45. (Chapter 8's opening, last sentence out per the relay, "relative position" in all three places) "yes, next item"
 46. [A] pasted RELAY-from-job99-20261104c.md a second time, unchanged (not saved again). Asked again about its item 2, line 816: "yes, next item"
 47. (D6, line 831, "This describes a small number of people" reworded on 10-30) "closed, next item"
+48. (opening of *What passes between them*, with "assume cannot happen") "the opening is okay. l847 is no good. what do you propose?"
