@@ -115,5 +115,60 @@ once("All three statements are true at once.\n\nBecause the order of the orienta
 
 insert_after_heading("### Position by position", "Each relative position gives two people something and can go wrong in its own way: Ahead and Behind can become mentorship or resentment, Equal is usually the easiest, and two people in the Identical position share each other's blind spots. A relative position harms a relationship only when the two people do not recognize it.", "Position by position opening (11-06)")
 
+once("one of six relative positions, and knowing two people's types is enough to know their relative position.",
+     "one of six relational positions, and knowing two people's types is enough to know their relational position.", 'Ch8 opening relational (11-06)')
+once('Every type has the same number of types in each relative position.',
+     'Every type has the same number of types in each relational position.', 'Ch8 opening relational 2 (11-06)')
+once('Each relative position gives two people something',
+     'Each relational position gives two people something', 'Position opening relational (11-06)')
+once('A relative position harms a relationship',
+     'A relational position harms a relationship', 'Position opening relational 2 (11-06)')
+once('sort every possible pair of types into one of six positions.',
+     'sort every possible pair of types into one of six relational positions.', 'l836 (11-06)')
+once('Ahead here is a position on a circle, not a rank.',
+     'Ahead here is a relational position on a circle, not a rank.', 'l838 (11-06)')
+once('A double position is one step in each realm',
+     'A double relational position is one step in each realm', 'l853 (11-06)')
+once('Reading a position off the grid',
+     'Reading a relational position off the grid', 'l855 (11-06)')
+once('the position is always a double one.',
+     'the relational position is always a double one.', 'l816 a (11-06)')
+once('and never in a double position.',
+     'and never in a double relational position.', 'l816 b (11-06)')
+once('A position is a fact about two types.',
+     'A relational position is a fact about two types.', 'Ch9 first (11-06)')
+once('In every position except Equal and Identical',
+     'In every relational position except Equal and Identical', 'Ch9 every (11-06)')
+once('an accurate reading of position from curdling',
+     'an accurate reading of relational position from curdling', 'Ch9 reading (11-06)')
+once('These name relative positions on the cycle',
+     'These name relational positions on the cycle', 'Ch9 relative (11-06)')
+once('This is the position with the clearest structure',
+     'This is the relational position with the clearest structure', 'Ch9 clearest (11-06)')
+once('Double positions carry the same dynamic',
+     'Double relational positions carry the same dynamic', 'Ch9 double (11-06)')
+once('A position is a liability only when it goes unrecognized.',
+     'A relational position is a liability only when it goes unrecognized.', 'Ch9 liability (11-06)')
+once('Left unnamed, the same positions curdle',
+     'Left unnamed, the same relational positions curdle', 'Ch9 curdle (11-06)')
+once('real lives contain several positions at once',
+     'real lives contain several relational positions at once', 'Ch9 several (11-06)')
+once('Maya can mistake his position for his worth',
+     'Maya can mistake his relational position for his worth', 'Ch9 Maya (11-06)')
+once('their position is the reason',
+     'their relational position is the reason', 'Ch9 Elena (11-06)')
+once('Position was given earlier as a fact about two people',
+     'Relational position was given earlier as a fact about two people', 'Ch10 (11-06)')
+once('Equal and Identical were the two arrangements in which neither person holds the forward position,',
+     'Equal and Identical were the two relational positions in which neither person is ahead,', 'Ch11 (11-06)')
+once('### Equal positions, and the mirror pairs',
+     '### Equal relational positions, and the mirror pairs', 'heading (11-06)')
+once('### Aligned and mixed\n\nTwo aligned types together',
+     '### Orientation by orientation\n\nSome dynamics come from which orientations the two people hold. Two aligned types together', 'relay 1 (11-06)')
+once("### Friction from the detached realm\n\nEverything above comes from where two people's orientations sit on the cycle. A second source of friction comes from the realms themselves. A person detached in a realm",
+     'A person detached in a realm', 'relay 2a (11-06)')
+once('each can insist on false ideas in the realm the other understands. This friction is independent of relational position, and it can sharpen or soften any of the dynamics above.',
+     'each can insist on false ideas in the realm the other understands. Undervaluing a realm can sharpen or soften the dynamics of every relational position except Identical, where the two people are detached in the same realms.', 'relay 2b (11-06)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
