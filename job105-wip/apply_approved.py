@@ -186,5 +186,8 @@ once('Maya is Double Ahead of Daniel, and Daniel Double Behind of Maya.',
 once("Maya does not experience herself as ahead of anyone, but Daniel's carefulness",
      "Maya does not think of herself as above Daniel, but Daniel's carefulness", 'RELAY 20261105b item 3 (11-06)')
 
+once('### In everyday life\n\nFour sketches, and the same handful of people recur, because real lives contain several relational positions at once.',
+     '### In everyday life\n\nRelational positions show up in ordinary marriages, workplaces and friendships: a husband who admires his wife as better at life than he is, two colleagues who differ in one realm only, two business partners who are each ahead in one realm, and two friends of one type whose worries grow when shared.\n\nA few people appear in more than one of these relationships, because real lives contain several relational positions at once.', 'In everyday life opening and first sentence (11-06)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
