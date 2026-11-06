@@ -113,5 +113,7 @@ once(" All three statements are true at once. On a ladder that would be nonsense
 
 once("All three statements are true at once.\n\nBecause the order of the orientations is a circle of three,", "All three statements are true at once. Because the order of the orientations is a circle of three,", "lines 843 and 845 joined (11-06)")
 
+insert_after_heading("### Position by position", "Each relative position gives two people something and can go wrong in its own way: Ahead and Behind can become mentorship or resentment, Equal is usually the easiest, and two people in the Identical position share each other's blind spots. A relative position harms a relationship only when the two people do not recognize it.", "Position by position opening (11-06)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)

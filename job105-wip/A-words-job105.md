@@ -56,3 +56,4 @@ LATER STYLE PASS: line 788 "the one claim in this book you can check in the next
 NOTE: [A]'s Obsidian line numbers appear to run two ahead of BOOK2-20261102.md from about line 845 on (his 847 = file 845).
 51. "is it a section heading?" / "show the two paragraphs." / "yes. are there any paragraphs that are too short now?" — line 843 loses "On a ladder that would be nonsense; on a circle it is geography."
 52. (join line 843's paragraph and the new line 845 paragraph into one) "yes,"
+53. (opening of *Position by position*) ""kind of position"->"relationship between positions" is that right?" Shown "relative position" instead: ""relative position" is good. what about changing "position" in the other places where it means relative position?"
