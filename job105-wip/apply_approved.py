@@ -109,5 +109,7 @@ insert_after_heading("### What passes between them", 'Between two people a step 
 once("This is checkable, and it is where the account differs sharply from most descriptions of human development, which assume that someone further along than a second person, who is further along than a third, must be further along than the third. Here three people can each sincerely, and correctly, see the next one as further along, all the way around the circle. What would count is a closed circle of three: each of the three reporting that they look to the next, and the third reporting that they look to the first.",
      "Because the order of the orientations is a circle of three, two steps ahead is one step behind, so each of three people can be ahead of the next, all the way round. Three people who each look up to the next, around the circle, would show it.", "line 845 (11-06)")
 
+once(" All three statements are true at once. On a ladder that would be nonsense; on a circle it is geography.", " All three statements are true at once.", "line 843 (11-06)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
