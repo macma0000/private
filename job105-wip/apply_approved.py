@@ -175,5 +175,16 @@ once('Maya and Daniel show both mechanisms at once.',
 once('None of it has anything to do with Maya being Double Ahead, which is what made Daniel admire her. Position and realm friction are separate mechanisms, and in this marriage',
      "The undervaluing comes from the realms, and Daniel's admiration comes from Maya being Double Ahead. Relational position and the orientations the two people hold are separate sources, and in this marriage", 'relay 3 (11-06)')
 
+once('A relational position is a fact about two types. What it is like from inside is a different matter — who looks up to whom, where the irritation comes from, and what each person has that the other needs.',
+     'A relational position is a fact about two types. What it is like from inside is a different matter — who looks up to whom, where the irritation comes from, and what each person has that the other needs. These dynamics come from the relational position, whichever orientations fill it. Other dynamics come from which orientations the two people hold. The orientations change what happens within a relational position, and decide how easily each person sees their own orientation as an orientation, whether each person undervalues the realm where the other is competent, and how widely the two people differ.', 'Ch9 opening paragraph (11-06)')
+once('Some dynamics come from which orientations the two people hold. Two aligned types together',
+     'Some dynamics come from which orientations the two people hold. Within one relational position, what happens also differs with the orientations that fill it. Two aligned types together', 'Orientation by orientation sentence (11-06)')
+once("knowing two people's types is enough to know their relational position. Because the order comes back to its start,",
+     "knowing two people's types is enough to know their relational position. In a given realm, a person tends to be energized by someone a step further along the order and burdened by someone a step back. So comparing two people's orientations helps explain who looks up to whom, where irritation between the two comes from, and what the two have to give each other. Because the order comes back to its start,", 'RELAY 20261105b item 1 (11-06)')
+once('Maya is Double Ahead of Daniel, and Daniel Double Behind of Maya.',
+     "Maya is Double Ahead of Daniel, and Daniel Double Behind of Maya. Daniel looks up to Maya, and Maya sees in Daniel's carefulness something she has moved past.", 'RELAY 20261105b item 2 (11-06)')
+once("Maya does not experience herself as ahead of anyone, but Daniel's carefulness",
+     "Maya does not think of herself as above Daniel, but Daniel's carefulness", 'RELAY 20261105b item 3 (11-06)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
