@@ -170,5 +170,10 @@ once("### Friction from the detached realm\n\nEverything above comes from where 
 once('each can insist on false ideas in the realm the other understands. This friction is independent of relational position, and it can sharpen or soften any of the dynamics above.',
      'each can insist on false ideas in the realm the other understands. Undervaluing a realm can sharpen or soften the dynamics of every relational position except Identical, where the two people are detached in the same realms.', 'relay 2b (11-06)')
 
+once('Maya and Daniel show both mechanisms at once.',
+     'Maya and Daniel show both sources at once.', 'Maya first sentence (11-06)')
+once('None of it has anything to do with Maya being Double Ahead, which is what made Daniel admire her. Position and realm friction are separate mechanisms, and in this marriage',
+     "The undervaluing comes from the realms, and Daniel's admiration comes from Maya being Double Ahead. Relational position and the orientations the two people hold are separate sources, and in this marriage", 'relay 3 (11-06)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
