@@ -111,5 +111,7 @@ once("This is checkable, and it is where the account differs sharply from most d
 
 once(" All three statements are true at once. On a ladder that would be nonsense; on a circle it is geography.", " All three statements are true at once.", "line 843 (11-06)")
 
+once("All three statements are true at once.\n\nBecause the order of the orientations is a circle of three,", "All three statements are true at once. Because the order of the orientations is a circle of three,", "lines 843 and 845 joined (11-06)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
