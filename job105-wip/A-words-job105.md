@@ -61,3 +61,4 @@ NOTE: [A]'s Obsidian line numbers appear to run two ahead of BOOK2-20261102.md f
 55. (the Maya and Daniel paragraph: relay item 3, with "mechanisms" -> "sources" in its first sentence) "yes, next item"
 56. (the new sentence in *Orientation by orientation*, "Within one relational position, what happens also differs with the orientations that fill it.", and Chapter 9's opening paragraph with three added sentences) "yes. and a relay:" — Job99's second relay of 2026-11-05, saved byte for byte as RELAY-from-job99-20261105b.md; all three items carry [A]'s 18:25 and 18:27 "yes" and are applied.
 57. (opening of *In everyday life*, and its first sentence "[A few people appear in more than one of these relationships, because] real lives contain several relational positions at once.") "yes, next item"
+58. (opening of *Orientation by orientation* as its own paragraph, with a third sentence) "yes, next item"

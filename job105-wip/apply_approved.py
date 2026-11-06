@@ -189,5 +189,8 @@ once("Maya does not experience herself as ahead of anyone, but Daniel's carefuln
 once('### In everyday life\n\nFour sketches, and the same handful of people recur, because real lives contain several relational positions at once.',
      '### In everyday life\n\nRelational positions show up in ordinary marriages, workplaces and friendships: a husband who admires his wife as better at life than he is, two colleagues who differ in one realm only, two business partners who are each ahead in one realm, and two friends of one type whose worries grow when shared.\n\nA few people appear in more than one of these relationships, because real lives contain several relational positions at once.', 'In everyday life opening and first sentence (11-06)')
 
+once('Within one relational position, what happens also differs with the orientations that fill it. Two aligned types together',
+     "Within one relational position, what happens also differs with the orientations that fill it. Whether each person is an aligned or a mixed type changes how easily each sees their own orientation, and a person detached in a realm tends to undervalue another person's competence there.\n\nTwo aligned types together", 'Orientation by orientation opening (11-06)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
