@@ -74,3 +74,4 @@ NOTE: [A]'s Obsidian line numbers appear to run two ahead of BOOK2-20261102.md f
 68. (*Disintegration, type by type*: the Four, the Five and the Six) "yes, next item"
 69. (*Disintegration, type by type*: the Seven, the Eight and the Nine) "yes. we should add forward and backward in both realms for the mixed type since we have them for the aligned types"
 70. (the twelve double-step sentences for the mixed types) "yes, next item"
+71. (the proposed last sentence of Chapter 10's opening) [A] pasted Job99's fourth relay of 2026-11-06, saved byte for byte as RELAY-from-job99-20261106d.md: the sentence does not go in ([A] 19:47 "yes"); the asymmetry is stated once at the end of the disintegration paragraph ([A] 19:48 "yes" to stating it; the wording to be shown to him).
