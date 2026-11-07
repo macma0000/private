@@ -70,3 +70,4 @@ NOTE: [A]'s Obsidian line numbers appear to run two ahead of BOOK2-20261102.md f
 64. (*Integration, type by type*: the Three, the Six and the Nine added) "yes, next item"
 65. (the opening paragraph of *Disintegration, type by type*) "yes. and a relay:" — Job99's third relay of 2026-11-06, saved byte for byte as RELAY-from-job99-20261106c.md: the disintegration paragraph stands; a matching paragraph for *Integration, type by type* ([A] 19:22 "yes"), with a join for Job105 to write and show.
 66. (the matching paragraph for *Integration, type by type*, with Job105's join and "even when the examining shows that the hoped-for reward may not come" for the relay's "and the disappointment the examining may bring") "yes, next item"
+67. (*Disintegration, type by type*: the One, the Two and the Three) "yes, next item"
