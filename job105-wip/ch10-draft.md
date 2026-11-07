@@ -50,7 +50,7 @@ Being less caught in a realm means holding the orientation in that realm less st
 
 The orientation a person holds in a realm has a center. A person who is deeply caught stays at the center, because a deeply caught person cannot easily move off the center.
 
-Health makes the center easier to leave. A person who can leave the center is found a little behind the center at some times, and a little ahead of the center at others. Such a person moves either way, as the matter at hand calls for. A person who can leave the center goes ahead of the center more often than behind it, because ahead is the direction of the step. Being less caught does not move the center. What being less caught changes is how easily a person leaves the center and returns.
+Health makes the center easier to leave. A person who can leave the center is found a little behind the center at some times, and a little ahead of the center at others. Such a person moves either way, as the matter at hand calls for. A person who can leave the center goes ahead of the center more often than behind it, because a fixation holds a person back from the orientation ahead. The person cannot easily bear what the next phase would bring. A less caught person can bear more of what the next phase would bring, and so goes ahead more easily. Being less caught does not move the center. What being less caught changes is how easily a person leaves the center and returns.
 
 Ahead of the center, some of the orientation ahead is available. The orientation ahead, paired with the orientation the person holds in their other realm, gives the type ahead in the realm where the person is less caught. So a person becoming less caught comes to resemble the type ahead, while still holding the same two orientations.
 

@@ -75,6 +75,10 @@ m = re.search(r"\n### Reading it from either end\n\n(Disintegration is the same 
 assert m, "reading section"
 ch = ch[:m.start()] + "\n\n" + nine_int + "\n\n" + dis + "\n\n### Reading it from either end\n\n" + m.group(2) + "\n" + ch[m.end():]
 
+# RELAY 20261104 ([A] 19:34): why a person goes ahead of the center more often.
+ch = once(ch, "goes ahead of the center more often than behind it, because ahead is the direction of the step.",
+          "goes ahead of the center more often than behind it, because a fixation holds a person back from the orientation ahead. The person cannot easily bear what the next phase would bring. A less caught person can bear more of what the next phase would bring, and so goes ahead more easily.", "going ahead")
+
 open(SP + "/ch10/ch10-draft.md", "w", encoding="utf-8").write(ch)
 full = t[:a] + ch + t[b:]
 full = full.replace("10. The Figure's Own Lines[[#Chapter 10 The Figure's Own Lines]]", "10. Integration and Disintegration[[#Chapter 10 Integration and Disintegration]]", 1)
