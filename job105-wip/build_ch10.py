@@ -31,7 +31,7 @@ opening = ("The classical Enneagram gives each type a direction of integration a
 old_first = ("The classical Enneagram draws two shapes inside its circle: a triangle joining 3, 6 and 9, and a six-pointed figure joining the other six. "
              "Arrows run along both, marking the directions a person is said to move under growth and under stress. "
              "Which type connects to which is simply given.")
-new_first = ("In the classical Enneagram, every type has a direction of integration, which a person is said to move in under growth, and a direction of disintegration, which a person is said to move in under stress. "
+new_first = ("In the classical Enneagram, every type has a direction of integration, which a person is said to move in when stress is low, and a direction of disintegration, which a person is said to move in under stress. "
              "The arrows for both directions run along two shapes inside the circle: a triangle joining 3, 6 and 9, and a six-pointed figure joining the other six. "
              "Which type connects to which is simply given.")
 ch = once(ch, "## Chapter 10: Integration and Disintegration\n\n" + old_first,
