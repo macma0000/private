@@ -1,0 +1,21 @@
+### Disintegration, type by type
+
+Stress lowers what a person can bear, and under stress a person looks more like the orientation behind their own. The shift lasts while the stress does, and the person's type does not change. Stress cuts short the work a person's own orientation does, and the person acts on what is in hand without that work. Where a person is enthusiastic, the person under stress seems to stop short of acting, and withdraws. Where a person is cautious, the person stops weighing, and acts recklessly on a fear that was never weighed. Where a person is detached, the person seems to stop settling the fears that arrive, so the same fears come back, and the person worries.
+
+A One under stress in the physical realm seems to stop short of acting on what ought to be done, and withdraws from the task. The type behind a One in that realm is the Four. A One under stress in the psychic realm stops weighing whether a thing is proper, and acts at once on the fear of being in the wrong. The type behind there is the Three.
+
+A Two under stress in the physical realm seems to stop settling the practical fears that arrive, so the same fears about time, money and arrangements come back, and the Two worries. The type behind a Two in that realm is the Eight. A Two under stress in the psychic realm seems to stop short of reaching out to people, and the giving stops. The type behind there is the Nine.
+
+A Three under stress in the physical realm seems to stop short of the next attempt, and nothing new gets started. The type behind a Three in that realm is the Two. A Three under stress in the psychic realm seems to stop short of the next achievement meant to settle their worth, and the drive goes flat. The type behind there is the Seven. A Three under stress in both realms comes to resemble the Nine, the type a double step behind.
+
+A Four under stress in the physical realm seems to stop settling the practical fears that arrive, so the demands of physical life come back again and again as worries. The type behind a Four in that realm is the Six. A Four under stress in the psychic realm stops weighing a feeling, and acts on it at once. The type behind there is the Two.
+
+A Five under stress in the physical realm stops weighing, and acts recklessly on whatever is in hand before understanding it. The type behind a Five in that realm is the Seven. A Five under stress in the psychic realm seems to stop settling the fears about people that arrive, so the same fears come back, and the Five worries. The type behind there is the Six.
+
+A Six under stress in the physical realm stops checking, and acts recklessly on a danger that was never weighed. The type behind a Six in that realm is the One. A Six under stress in the psychic realm stops weighing a worry about people, and acts on the worry at once. The type behind there is the Eight. A Six under stress in both realms comes to resemble the Three, the type a double step behind.
+
+A Seven under stress in the physical realm seems to stop short of the next plan, and withdraws. The type behind a Seven in that realm is the Nine. A Seven under stress in the psychic realm seems to stop settling the fears that arrive, so the same fears come back, and the Seven worries. The type behind there is the One.
+
+An Eight under stress in the physical realm stops weighing where the weakness is, and acts recklessly on a threat that was never weighed. The type behind an Eight in that realm is the Three. An Eight under stress in the psychic realm seems to stop short of engaging people, and withdraws. The type behind there is the Five.
+
+A Nine under stress in the physical realm seems to stop settling the practical fears that arrive, so the same fears come back, and the Nine worries. The type behind a Nine in that realm is the Five. A Nine under stress in the psychic realm seems to stop settling the fears about people that arrive, and the Nine worries about the people around them. The type behind there is the Four. A Nine under stress in both realms comes to resemble the Six, the type a double step behind.

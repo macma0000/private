@@ -63,3 +63,4 @@ NOTE: [A]'s Obsidian line numbers appear to run two ahead of BOOK2-20261102.md f
 57. (opening of *In everyday life*, and its first sentence "[A few people appear in more than one of these relationships, because] real lives contain several relational positions at once.") "yes, next item"
 58. (opening of *Orientation by orientation* as its own paragraph, with a third sentence) "yes, next item"
 59. (Chapter 10's opening) "big relay:" — Job99's second relay of 2026-11-06, saved byte for byte as RELAY-from-job99-20261106b.md: Chapter 10 reframed around integration and disintegration; title, first paragraph, section order and opening approved (15:22, 15:33, 16:01, 16:03, 16:11). It depends on Job99's first relay of 11-06 ("what the classical arrows describe"), not yet received.
+60. Job99's first relay of 2026-11-06, pasted on request, saved byte for byte as RELAY-from-job99-20261106.md (the classical arrows describe both changes; [A] 15:16, 15:18 "yes").
