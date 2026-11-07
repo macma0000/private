@@ -8,7 +8,7 @@ Both shapes fall out of the grid.
 
 ### The types ahead and behind
 
-Integration is the forward direction around the cycle of orientations, and one step forward in a realm is what ahead means. The types a person integrates toward are therefore the types ahead of them.
+Integration is the forward direction around the cycle of orientations: a shift toward the orientation one step forward. One step forward in a realm is what ahead means. The types a person integrates toward are therefore the types ahead of them.
 
 Disintegration is the same lines read backward. Behind replaces ahead throughout, each realm shifting a little toward the orientation behind it rather than the one ahead, and the two shapes close in the reverse order. The classical figure marks both directions on the same lines, for the same reason.
 

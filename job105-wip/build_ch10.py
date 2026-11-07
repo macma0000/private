@@ -79,6 +79,10 @@ ch = ch[:m.start()] + "\n\n" + nine_int + "\n\n" + dis + "\n\n### Reading it fro
 ch = once(ch, "goes ahead of the center more often than behind it, because ahead is the direction of the step.",
           "goes ahead of the center more often than behind it, because a fixation holds a person back from the orientation ahead. The person cannot easily bear what the next phase would bring. A less caught person can bear more of what the next phase would bring, and so goes ahead more easily.", "going ahead")
 
+# [A] 11-07: integration as a shift toward the orientation one step forward.
+ch = once(ch, "Integration is the forward direction around the cycle of orientations, and one step forward in a realm is what ahead means.",
+          "Integration is the forward direction around the cycle of orientations: a shift toward the orientation one step forward. One step forward in a realm is what ahead means.", "integration shift")
+
 open(SP + "/ch10/ch10-draft.md", "w", encoding="utf-8").write(ch)
 full = t[:a] + ch + t[b:]
 full = full.replace("10. The Figure's Own Lines[[#Chapter 10 The Figure's Own Lines]]", "10. Integration and Disintegration[[#Chapter 10 Integration and Disintegration]]", 1)
