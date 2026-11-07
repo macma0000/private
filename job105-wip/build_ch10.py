@@ -83,6 +83,10 @@ ch = once(ch, "goes ahead of the center more often than behind it, because ahead
 ch = once(ch, "Integration is the forward direction around the cycle of orientations, and one step forward in a realm is what ahead means.",
           "Integration is the forward direction around the cycle of orientations: a shift toward the orientation one step forward. One step forward in a realm is what ahead means.", "integration shift")
 
+# RELAY 20261106c item 2 ([A] 19:22), with Job105's join and "failing to get rewarded" in plain words ([A] 11-07 yes).
+ch = once(ch, "What being less caught changes is how easily a person leaves the center and returns.\n\n",
+          "What being less caught changes is how easily a person leaves the center and returns.\n\n" + 'A less caught person can bear more of what the next orientation brings, and so can anyone when stress is low. Where a person is enthusiastic, the person can bear the examining, even when the examining shows that the hoped-for reward may not come. Where a person is cautious, the person can bear losing control, and lets fears be settled. Where a person is detached, the person can bear a want arising, and the fears a want can bring.' + "\n\n", "integration matching paragraph")
+
 open(SP + "/ch10/ch10-draft.md", "w", encoding="utf-8").write(ch)
 full = t[:a] + ch + t[b:]
 full = full.replace("10. The Figure's Own Lines[[#Chapter 10 The Figure's Own Lines]]", "10. Integration and Disintegration[[#Chapter 10 Integration and Disintegration]]", 1)
