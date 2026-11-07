@@ -72,3 +72,4 @@ NOTE: [A]'s Obsidian line numbers appear to run two ahead of BOOK2-20261102.md f
 66. (the matching paragraph for *Integration, type by type*, with Job105's join and "even when the examining shows that the hoped-for reward may not come" for the relay's "and the disappointment the examining may bring") "yes, next item"
 67. (*Disintegration, type by type*: the One, the Two and the Three) "yes, next item"
 68. (*Disintegration, type by type*: the Four, the Five and the Six) "yes, next item"
+69. (*Disintegration, type by type*: the Seven, the Eight and the Nine) "yes. we should add forward and backward in both realms for the mixed type since we have them for the aligned types"
