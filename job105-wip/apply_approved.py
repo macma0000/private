@@ -269,5 +269,8 @@ insert_after_heading("### Lasting unease", 'Unease can be present without being 
 once('Integration is the direction natural experience leads as a person meets the drawbacks of the orientation they hold.',
      "Integration is the natural direction toward the next orientation, which would remedy the drawbacks of a person's own orientation, and which holding on to that orientation inhibits.", 'line 740 integration (11-08)')
 
+once('But the fear arriving meets the want for peace, and the discomfort',
+     'But wanting brings fears with it, and the discomfort', 'Z to A (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
