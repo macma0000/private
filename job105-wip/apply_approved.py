@@ -266,5 +266,8 @@ insert_after_heading("### The unease loop", 'Unease about a matter that does not
 
 insert_after_heading("### Lasting unease", 'Unease can be present without being noticed, and noticed without being acted on. Letting go of a tension in the body and a skill for handling fear help with unease in different ways. Most people feel uneasy when completely idle, and look for a distraction, and every distraction wears off. Unease that lasts has three sources: ignored aversions, blocked aversions, and being less able to handle life than others are. Lasting unease also produces habitual fears, which usually ease when the source of the unease ends.', "Lasting unease opening (11-08)")
 
+once('Integration is the direction natural experience leads as a person meets the drawbacks of the orientation they hold.',
+     "Integration is the natural direction toward the next orientation, which would remedy the drawbacks of a person's own orientation, and which holding on to that orientation inhibits.", 'line 740 integration (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
