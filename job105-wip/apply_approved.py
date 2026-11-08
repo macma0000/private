@@ -225,5 +225,10 @@ once('would mind nothing at all. Buddhism calls such a person an arhat. An arhat
 once('Every orientation comes with something a person cannot easily bear, and detachment does too. A detached person minds being disturbed, even a detached person with no lean either way.',
      'Detachment is a fixation too: like every orientation, it comes with something a person cannot easily bear. A detached person minds being disturbed, even a detached person with no lean either way.', 'Part 3 detachment paragraph join (11-08)')
 
+once('Parts 1 and 2 described the orientations, the nine types they make, and how people of different types meet one another. None of that needed the word fixation.',
+     "People have a capacity to track other minds: they can guess what someone else will do. A person's inner world, and the self in it, are what that capacity produces when directed at the very mind doing the tracking. A person's own fixation never shows up in the picture of the self. A fixation shapes everything the person pictures, and is not itself one of the things pictured. So a person cannot find their own fixation by looking inward. Enthusiasm and caution are directed at things. Detachment is directed at a person's own reactions, so any way out of a fixation runs through detachment.", 'Part 3 sixth paragraph (11-08)')
+once('The self seems to be what a capacity built for tracking other minds produces when the capacity is directed at the mind doing the tracking.',
+     'The self is what a capacity built for tracking other minds produces when the capacity is directed at the mind doing the tracking.', 'Ch13 self (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
