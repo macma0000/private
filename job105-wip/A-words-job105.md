@@ -100,3 +100,4 @@ REGISTER, next letter: the worked-through entry (RULED 10-14/15) becomes "what t
 91. (*What a thought leaves*, first two sentences swapped) "yes, next item"
 92. (Chapter 15: an introduction rather than a summary, "Everyone has had a worry that keeps coming back ...") "it's good."
 93. (Chapter 15 sections: openings only for *How a fear comes to be buried*, *The unease loop* and *Lasting unease*, on Job105's judgment; the first shown) "yes, next item"
+94. (opening of *The unease loop*) "yes, next item"

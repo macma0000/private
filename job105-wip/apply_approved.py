@@ -262,5 +262,7 @@ once('## Chapter 15: What Becomes of a Fear\n\n### Disregarding',
 
 insert_after_heading("### How a fear comes to be buried", 'A single piece of bad news raises several fears in a person. Some of the fears are ignored or blocked by discomfort and come back stronger, until one is more than the person can bear and panic turns the person away from that fear. After the panic, layers of fear of the fear build up, and the turning away comes sooner and reaches further.', "How a fear comes to be buried opening (11-08)")
 
+insert_after_heading("### The unease loop", 'Unease about a matter that does not resolve keeps a person going from a fear, to bodily tension, to a new fear, with nothing turned away from. People of each orientation go round differently, and each orientation has its own way out. A person takes a way out when the unease hurts more than doing what the way out requires. A person can also turn a matter over in the same way while the outcome can still be changed.', "Unease loop opening (11-08)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
