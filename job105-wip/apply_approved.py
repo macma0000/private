@@ -194,5 +194,12 @@ once('Within one relational position, what happens also differs with the orienta
 
 once("and gives each line a direction of growth and a direction of stress.", "and gives each line a direction a person shifts in when stress is low and a direction a person shifts in under stress.", "Ch7 lines growth (11-07)")
 
+once('### Opposite\n\nSix positional relationships have already been set out — Double Ahead, Ahead, Equal, Behind, Double Behind and Identical. There is a seventh arrangement that belongs to none of them.',
+     '### Opposite\n\nTwo people can stand exactly opposite each other on the circle in both realms. Only a lean can put two people there, because no two of the three orientations stand exactly opposite. Between two opposite people neither is ahead of the other, whatever relational position the two would otherwise be in.\n\nBesides the six relational positions — Double Ahead, Ahead, Equal, Behind, Double Behind and Identical — opposition is one more important relation between two people.', 'Opposite opening and first sentences (11-08)')
+once('whatever class they otherwise stand in,',
+     'whatever relational position they otherwise stand in,', 'Opposite class (11-08)')
+once('That symmetry matters for the asymmetry set out earlier. Equal and Identical were the two relational positions in which neither person is ahead, and opposite is a third — balanced not because opposition is a kind of equality, but because the symmetry cancels the ahead and behind of whatever class it arises from.',
+     'That symmetry puts opposition beside Equal and Identical, the two relational positions in which neither person is ahead. In all three, the two people stand symmetrically, so neither is ahead.', 'Opposite last paragraph (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
