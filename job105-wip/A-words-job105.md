@@ -84,3 +84,4 @@ NOTE: [A]'s Obsidian line numbers appear to run two ahead of BOOK2-20261102.md f
 78. (Part 3's opening, third paragraph) [A] pasted Job99's relay of 2026-11-07, saved byte for byte as RELAY-from-job99-20261107.md. Item 2 (three sentences on fixations being normal, [A] 16:59 "yes") applied. Item 1 (Job105's "That claim holds, with one addition:" plus the Naranjo fix "[what he called enneatypes]") carries no direct yes: shown to him next.
 LOOSE END (from the relay, STILL OPEN): Chapter 1's history overstates Naranjo ("worked it into the detailed descriptions in use today") and mentions Palmer, Riso and Hudson only as popularizers; "carried it to Berkeley in 1971" unconfirmed. For [A] and Job99.
 79. (Part 3's opening, third paragraph, with the Naranjo fix) "yes. what about the open question about chapter 1?"
+80. (the Introduction's history paragraph: "in the early 1970s", "developed the types further", Riso and Hudson credited) "yes. What about "The Introduction"?"

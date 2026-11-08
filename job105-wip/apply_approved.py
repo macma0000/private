@@ -216,5 +216,8 @@ once('caution is what they have, and enthusiasm and detachment are not available
 once('and Claudio Naranjo developed them into the enneatypes in use today. The claim in both is that a type is a fixation. This book keeps that claim. What this book adds is that a person holds two fixations, one in each realm, and that the nine types',
      'and Claudio Naranjo developed them into what he called enneatypes. The claim in both is that a type is a fixation. That claim holds, with one addition: a person holds two fixations, one in each realm, and the nine types', 'Part 3 third paragraph (RELAY 20261107 item 1, yes 11-08)')
 
+once("carried it to Berkeley in 1971 and worked it into the detailed descriptions in use today. From Naranjo's students it passed into Jesuit retreat work, and from there outward, until Helen Palmer, Don Riso, Russ Hudson and others made it one of the most widely used accounts of personality anywhere.",
+     "carried it to Berkeley in the early 1970s and developed the types further. From Naranjo's students it passed into Jesuit retreat work, and from there outward. Don Riso, later joined by Russ Hudson, expanded the types into the detailed descriptions in use today and added the Levels of Development. Helen Palmer and others helped make it one of the most widely used accounts of personality anywhere.", 'Introduction history (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
