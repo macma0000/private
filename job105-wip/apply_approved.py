@@ -272,5 +272,8 @@ once('Integration is the direction natural experience leads as a person meets th
 once('But the fear arriving meets the want for peace, and the discomfort',
      'But wanting brings fears with it, and the discomfort', 'Z to A (11-08)')
 
+once('since each meets their own two orientations in the other realm.',
+     'since each sees their own two orientations in the other person, held in the opposite realms.', 'mirror pair meet (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
