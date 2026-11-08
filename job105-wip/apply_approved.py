@@ -278,5 +278,8 @@ once('since each meets their own two orientations in the other realm.',
 once('so when either meets genuine stillness in someone, both read it as something being wrong.',
      'so genuine stillness in someone is something neither of them relates to.', 'Elena and Marcus meet (11-08)')
 
+once('The fear is raised again when the person next meets the problem of the sale.',
+     'The fear is raised again when the problem of the sale next comes up.', 'sale meet (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
