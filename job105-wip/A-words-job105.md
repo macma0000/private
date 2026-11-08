@@ -85,3 +85,4 @@ NOTE: [A]'s Obsidian line numbers appear to run two ahead of BOOK2-20261102.md f
 LOOSE END (from the relay, STILL OPEN): Chapter 1's history overstates Naranjo ("worked it into the detailed descriptions in use today") and mentions Palmer, Riso and Hudson only as popularizers; "carried it to Berkeley in 1971" unconfirmed. For [A] and Job99.
 79. (Part 3's opening, third paragraph, with the Naranjo fix) "yes. what about the open question about chapter 1?"
 80. (the Introduction's history paragraph: "in the early 1970s", "developed the types further", Riso and Hudson credited) "yes. What about "The Introduction"?"
+81. (whether to take up the Introduction on recognition now) "stay on hold while we finish the openings"
