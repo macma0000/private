@@ -248,5 +248,8 @@ once('## Chapter 13: Where the Inner World Came From\n\n### A part of the world 
 once('in the only sense anything inner is ever there. What it is not is an object.',
      "in the only sense anything inner is ever there. What it is not is an object. An animal predicting another animal pictures a cause inside the other animal for what the other animal does. The cause is never seen; the picture only holds a place for the cause. Turned on oneself, the capacity does the same. The self is a placeholder for a person's behavior as observed from the outside.", 'RELAY 20261108 item 2 ([A] 08:48)')
 
+once('Until now the cycle has been used to put the three orientations in order:',
+     'The cycle puts the three orientations in order:', 'Ch14 first sentence (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)

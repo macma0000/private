@@ -95,3 +95,4 @@ REGISTER, next letter: the worked-through entry (RULED 10-14/15) becomes "what t
 86. (Job105's proposed Chapter 13 opening, with the question of overlap) [A] pasted Job99's relay of 2026-11-08, saved byte for byte as RELAY-from-job99-20261108.md: his own introduction for Chapter 13 in place of a summary ([A] 08:40, 08:47 "yes"), and the self as a placeholder in *The imaginary self* ([A] 08:48 "yes"). Both applied; Job105's opening withdrawn.
 87. (section openings for Chapter 13) "without"
 88. (summaries for the rest of Part 3) "i agree with you that chapter 14 doesn't need a summary. for the subsequent chapters tell me to check if you think an summary isn't needed."
+89. (Chapter 14: no section openings, on Job105's judgment; first sentence "[The cycle puts] the three orientations in order") "yes, next item"
