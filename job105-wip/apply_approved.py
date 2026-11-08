@@ -260,5 +260,7 @@ once('### What a thought leaves\n\nWhen a thought ends, the next thought is a se
 once('## Chapter 15: What Becomes of a Fear\n\n### Disregarding',
      "## Chapter 15: What Becomes of a Fear\n\nEveryone has had a worry that keeps coming back, and an unease with nothing to explain it. Both come from what happens to fears. A fear can be settled, and then it leaves little behind. A fear can be left alone, and then it comes back with the problem. And a fear can be turned away from, sometimes so completely that the person can no longer notice the problem the fear was about. A fear turned away from like that goes on shaping the person's life, though the person never decided anything.\n\n### Disregarding", 'Ch15 introduction (11-08)')
 
+insert_after_heading("### How a fear comes to be buried", 'A single piece of bad news raises several fears in a person. Some of the fears are ignored or blocked by discomfort and come back stronger, until one is more than the person can bear and panic turns the person away from that fear. After the panic, layers of fear of the fear build up, and the turning away comes sooner and reaches further.', "How a fear comes to be buried opening (11-08)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
