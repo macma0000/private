@@ -97,3 +97,4 @@ REGISTER, next letter: the worked-through entry (RULED 10-14/15) becomes "what t
 88. (summaries for the rest of Part 3) "i agree with you that chapter 14 doesn't need a summary. for the subsequent chapters tell me to check if you think an summary isn't needed."
 89. (Chapter 14: no section openings, on Job105's judgment; first sentence "[The cycle puts] the three orientations in order") "yes, next item"
 90. (*Where a fear meets its fate*, first two sentences joined) "yes, next item"
+91. (*What a thought leaves*, first two sentences swapped) "yes, next item"

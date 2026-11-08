@@ -254,5 +254,8 @@ once('Until now the cycle has been used to put the three orientations in order:'
 once('### Where a fear meets its fate\n\nA thought finishes in the detached phase. A fear the thought is still carrying meets its fate in the detached phase.',
      '### Where a fear meets its fate\n\nA fear a thought is still carrying meets its fate in the detached phase, where the thought finishes.', 'Where a fear meets its fate first sentence (11-08)')
 
+once('### What a thought leaves\n\nWhen a thought ends, the next thought is a separate thought. What the ended thought was still carrying is laid down.',
+     '### What a thought leaves\n\nWhen a thought ends, what the thought was still carrying is laid down. The next thought is a separate thought.', 'What a thought leaves first sentences (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
