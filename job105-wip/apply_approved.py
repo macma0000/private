@@ -222,5 +222,8 @@ once("carried it to Berkeley in 1971 and worked it into the detailed description
 once('would mind nothing at all. Buddhism calls such a person an arhat. An arhat is not the same as a detached person with no lean.',
      'would mind nothing at all. Such a person is not the same as a detached person with no lean. A detached person with no lean still wants peace, and minds whatever disturbs it.', 'RELAY 20261107b ([A] 17:13)')
 
+once('Every orientation comes with something a person cannot easily bear, and detachment does too. A detached person minds being disturbed, even a detached person with no lean either way.',
+     'Detachment is a fixation too: like every orientation, it comes with something a person cannot easily bear. A detached person minds being disturbed, even a detached person with no lean either way.', 'Part 3 detachment paragraph join (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
