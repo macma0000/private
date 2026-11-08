@@ -114,3 +114,4 @@ RULING 11-08 (supersedes the idiom exception above): "meet" is wrong where a per
 103. (*The range of detachment*: "[Conflict comes to everyone]") "yes, next item"
 104. (rung 3, "Others now meet a persona.") "leave it as before. a persona is more like a person than an object."
 105. (Chapter 18: "to [experience] a feeling as a feeling") "yes, next item"
+106. (Chapter 16's introduction, its infancy sentences) ""A fixation might begin with a newborn's reactions and with what the child comes to expect" - both halves seem hard to understand. maybe give slightly longer descriptions." / "good, but way to long. something of in between length?" / "what about comfortable instead of strategy?" / ""the person is comfortable"->"the child is comfortable"?" / "yes, next item"

@@ -287,5 +287,8 @@ once('Everyone meets conflict; what differs',
 once('practiced enough to meet a feeling as a feeling.',
      'practiced enough to experience a feeling as a feeling.', 'feeling meet (11-08)')
 
+once('## Chapter 16: The Fixations Themselves\n\n### The range of detachment',
+     "## Chapter 16: The Fixations Themselves\n\nA person does not handle every fear the same way. How a fear is handled depends on the fixation the person holds in the realm the fear is about, so a mixed type handles fears differently in each realm. Detachment is more complicated than the other two fixations, because a detached person can stand anywhere along a range between caution and enthusiasm, and where the person stands decides much of what becomes of a fear. Following one undertaking through a person of each fixation shows where each person's attention goes, and what each person does when the undertaking runs into trouble. A fixation might begin in infancy, when one of the three orientations comes to predominate, first by constitution and then by how the people around the child respond. The orientation becomes the place where the child is comfortable, and habit keeps it running even when what the person believes changes.\n\n### The range of detachment", 'Ch16 introduction (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
