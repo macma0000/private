@@ -219,5 +219,8 @@ once('and Claudio Naranjo developed them into the enneatypes in use today. The c
 once("carried it to Berkeley in 1971 and worked it into the detailed descriptions in use today. From Naranjo's students it passed into Jesuit retreat work, and from there outward, until Helen Palmer, Don Riso, Russ Hudson and others made it one of the most widely used accounts of personality anywhere.",
      "carried it to Berkeley in the early 1970s and developed the types further. From Naranjo's students it passed into Jesuit retreat work, and from there outward. Don Riso, later joined by Russ Hudson, expanded the types into the detailed descriptions in use today and added the Levels of Development. Helen Palmer and others helped make it one of the most widely used accounts of personality anywhere.", 'Introduction history (11-08)')
 
+once('would mind nothing at all. Buddhism calls such a person an arhat. An arhat is not the same as a detached person with no lean.',
+     'would mind nothing at all. Such a person is not the same as a detached person with no lean. A detached person with no lean still wants peace, and minds whatever disturbs it.', 'RELAY 20261107b ([A] 17:13)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)

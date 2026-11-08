@@ -86,3 +86,5 @@ LOOSE END (from the relay, STILL OPEN): Chapter 1's history overstates Naranjo (
 79. (Part 3's opening, third paragraph, with the Naranjo fix) "yes. what about the open question about chapter 1?"
 80. (the Introduction's history paragraph: "in the early 1970s", "developed the types further", Riso and Hudson credited) "yes. What about "The Introduction"?"
 81. (whether to take up the Introduction on recognition now) "stay on hold while we finish the openings"
+82. (the arhat paragraph, with Job105's proposed joining sentence before him) [A] pasted Job99's second relay of 2026-11-07, saved byte for byte as RELAY-from-job99-20261107b.md: Buddhism and arhat go, a last sentence on what a detached person with no lean wants ([A] 17:08, 17:11, 17:13 "yes"). Applied. Job105's joining sentence still awaits his answer.
+REGISTER, next letter: the arhat/buddha entry (Job76's "arhat for buddha") is superseded by [A]'s 17:08 — the name goes from the book.
