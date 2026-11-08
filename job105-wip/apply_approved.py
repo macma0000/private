@@ -264,5 +264,7 @@ insert_after_heading("### How a fear comes to be buried", 'A single piece of bad
 
 insert_after_heading("### The unease loop", 'Unease about a matter that does not resolve keeps a person going from a fear, to bodily tension, to a new fear, with nothing turned away from. People of each orientation go round differently, and each orientation has its own way out. A person takes a way out when the unease hurts more than doing what the way out requires. A person can also turn a matter over in the same way while the outcome can still be changed.', "Unease loop opening (11-08)")
 
+insert_after_heading("### Lasting unease", 'Unease can be present without being noticed, and noticed without being acted on. Letting go of a tension in the body and a skill for handling fear help with unease in different ways. Most people feel uneasy when completely idle, and look for a distraction, and every distraction wears off. Unease that lasts has three sources: ignored aversions, blocked aversions, and being less able to handle life than others are. Lasting unease also produces habitual fears, which usually ease when the source of the unease ends.', "Lasting unease opening (11-08)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
