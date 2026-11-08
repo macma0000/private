@@ -230,5 +230,18 @@ once('Parts 1 and 2 described the orientations, the nine types they make, and ho
 once('The self seems to be what a capacity built for tracking other minds produces when the capacity is directed at the mind doing the tracking.',
      'The self is what a capacity built for tracking other minds produces when the capacity is directed at the mind doing the tracking.', 'Ch13 self (11-08)')
 
+once('show in how the fixation runs a thought.\n\nPeople also differ in how deeply they are caught in their fixations.',
+     "show in how the fixation runs a thought.\n\nEach thought ends in the detached phase, and what becomes of a fear is decided there. A fear can be settled: what to do about the matter the fear is about is found, or the want behind it is given up. A fear can also be left alone, and then it comes back with the problem. Or a fear can be turned away from until it is no longer noticed.\n\nA fear that grows past what a person can bear is turned away from in panic, and then it stays out of view. Whenever anything comes near the fear, a fresh anxiety arises, and the person turns away from the anxiety too. What a person turns away from goes on working on the person unseen. Aversions that are left alone or turned away from leave a lasting unease, felt with nothing to explain it.\n\nFixations differ in how they handle fears. How likely a fear is to be settled depends on the person's fixation in the realm the fear is about. A fixation might come from two sources: a person's constitution, and what happened in the person's earliest years, before the person could understand any of it. Once a fixation is laid down, habit keeps it running. Nothing has to be believed for habit to keep running, so a fixation can last a whole life.\n\nPeople also differ in how deeply they are caught in their fixations.", 'Part 3 new paragraphs (11-08)')
+once('The fear can be worked through, which means the thought finds what to do about the fear.',
+     'The fear can be worked through, which means what to do about the matter the fear is about is found.', 'Ch14 worked through (11-08)')
+once('A fear can be worked through, which means the thought finds what to do about the fear.',
+     'A fear can be worked through, which means what to do about the matter the fear is about is found.', 'Ch15 worked through (11-08)')
+once('*Worked through* — the thought has found what to do about the fear, so the fear is settled. Nothing has been turned away from. What the thought finds may be',
+     '*Worked through* — what to do about the matter the fear is about has been found, so the fear is settled. Nothing has been turned away from. What is found may be', 'line 1270 (11-08)')
+once('A fear worked through ends because the thought found what to do about the fear.',
+     'A fear worked through ends because what to do about the matter the fear is about was found.', 'line 1294 (11-08)')
+once('The thought finds what to do about the fear: the person decides to call the agent in the morning.',
+     'What to do about the matter the fear is about is found: the person decides to call the agent in the morning.', 'unease loop example (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
