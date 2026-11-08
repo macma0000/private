@@ -243,5 +243,10 @@ once('A fear worked through ends because the thought found what to do about the 
 once('The thought finds what to do about the fear: the person decides to call the agent in the morning.',
      'What to do about the matter the fear is about is found: the person decides to call the agent in the morning.', 'unease loop example (11-08)')
 
+once('## Chapter 13: Where the Inner World Came From\n\n### A part of the world that contains the rest',
+     "## Chapter 13: Where the Inner World Came From\n\nThe physical realm is about things. The physical realm is the outside world everyone shares. The psychic realm is the inner world of thoughts and feelings, which can be somewhat different for different people.\n\nThoughts and feelings are themselves part of the psychic realm. So a person can think about thoughts and feelings, including the person's own, and the thinking becomes part of what the person is thinking about. Thinking about thinking has consequences the physical realm does not have: a person comes to see a self, a mistake in the psychic realm can go uncorrected for a long time, and a person cannot find their own fixation by looking inward.\n\n### A part of the world that contains the rest", 'RELAY 20261108 item 1 ([A] 08:47)')
+once('in the only sense anything inner is ever there. What it is not is an object.',
+     "in the only sense anything inner is ever there. What it is not is an object. An animal predicting another animal pictures a cause inside the other animal for what the other animal does. The cause is never seen; the picture only holds a place for the cause. Turned on oneself, the capacity does the same. The self is a placeholder for a person's behavior as observed from the outside.", 'RELAY 20261108 item 2 ([A] 08:48)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
