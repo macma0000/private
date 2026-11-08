@@ -251,5 +251,8 @@ once('in the only sense anything inner is ever there. What it is not is an objec
 once('Until now the cycle has been used to put the three orientations in order:',
      'The cycle puts the three orientations in order:', 'Ch14 first sentence (11-08)')
 
+once('### Where a fear meets its fate\n\nA thought finishes in the detached phase. A fear the thought is still carrying meets its fate in the detached phase.',
+     '### Where a fear meets its fate\n\nA fear a thought is still carrying meets its fate in the detached phase, where the thought finishes.', 'Where a fear meets its fate first sentence (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
