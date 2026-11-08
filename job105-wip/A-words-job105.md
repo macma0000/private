@@ -111,3 +111,4 @@ RULING 11-08 (supersedes the idiom exception above): "meet" is wrong where a per
 100. (mirror pair: "each [sees] their own two orientations in the other [person, held in the opposite realms]") "yes, next item"
 101. (Elena and Marcus) ""both read it as something being wrong."->"neither relates to it"?" / (shown "so genuine stillness in someone is something neither of them relates to.") "yes, next item"
 102. (the sale: "when [the problem of the sale next comes up]") "yes, next item"
+103. (*The range of detachment*: "[Conflict comes to everyone]") "yes, next item"

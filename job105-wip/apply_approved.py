@@ -281,5 +281,8 @@ once('so when either meets genuine stillness in someone, both read it as somethi
 once('The fear is raised again when the person next meets the problem of the sale.',
      'The fear is raised again when the problem of the sale next comes up.', 'sale meet (11-08)')
 
+once('Everyone meets conflict; what differs',
+     'Conflict comes to everyone; what differs', 'conflict meet (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
