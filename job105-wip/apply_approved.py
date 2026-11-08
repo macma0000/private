@@ -207,5 +207,8 @@ once('The eight combinations are read the same way whichever orientation a perso
 once('In each realm one of the three orientations settles and hardens into habit. A hardened orientation is what this book calls a **fixation**.',
      'In each realm, one of the three orientations hardens into habit. A hardened orientation is called a **fixation**.', 'Part 3 first paragraph (11-08)')
 
+once('This is what Parts 1 and 2 have been describing throughout. A realm was called detached, or enthusiastic, or cautious, and what that named was the fixation a person holds in the realm. A person was called more or less caught, and what varied was how strongly a person holds the fixation.',
+     "Wherever a person is enthusiastic, cautious or detached in a realm, the orientation is the person's fixation in that realm. Fixation is a new name, not a new thing: it is the orientation a person holds, with the hardening brought out. How deeply caught a person is in a realm is how strongly the person holds the fixation.", 'Part 3 second paragraph (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
