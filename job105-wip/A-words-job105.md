@@ -98,3 +98,4 @@ REGISTER, next letter: the worked-through entry (RULED 10-14/15) becomes "what t
 89. (Chapter 14: no section openings, on Job105's judgment; first sentence "[The cycle puts] the three orientations in order") "yes, next item"
 90. (*Where a fear meets its fate*, first two sentences joined) "yes, next item"
 91. (*What a thought leaves*, first two sentences swapped) "yes, next item"
+92. (Chapter 15: an introduction rather than a summary, "Everyone has had a worry that keeps coming back ...") "it's good."
