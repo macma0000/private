@@ -109,3 +109,4 @@ RULING 11-08: "meets its fate" stays everywhere, as an exception to the rule aga
 99. (Z to A, "the fear arriving meets the want for peace") "the original looks okay to me. the the problem i felt was a person meeting an object and an object meeting an object is okay. it think that's a correction to the rule. your change seems good also. which do you think is better?" / "change it, next item"
 RULING 11-08 (supersedes the idiom exception above): "meet" is wrong where a person meets a thing; one thing meeting another is fine. So "meets its fate" stands on this rule. For the register's next letter.
 100. (mirror pair: "each [sees] their own two orientations in the other [person, held in the opposite realms]") "yes, next item"
+101. (Elena and Marcus) ""both read it as something being wrong."->"neither relates to it"?" / (shown "so genuine stillness in someone is something neither of them relates to.") "yes, next item"

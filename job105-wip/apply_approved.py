@@ -275,5 +275,8 @@ once('But the fear arriving meets the want for peace, and the discomfort',
 once('since each meets their own two orientations in the other realm.',
      'since each sees their own two orientations in the other person, held in the opposite realms.', 'mirror pair meet (11-08)')
 
+once('so when either meets genuine stillness in someone, both read it as something being wrong.',
+     'so genuine stillness in someone is something neither of them relates to.', 'Elena and Marcus meet (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
