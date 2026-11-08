@@ -213,5 +213,8 @@ once('This is what Parts 1 and 2 have been describing throughout. A realm was ca
 once('caution is what they have, and enthusiasm and detachment are not available to them.',
      'caution is what they have, and enthusiasm and detachment are not available to them. Having fixations is normal, since each of the nine types is a pair of fixations. What the word judges is the limitation, not the person. Each fixation also comes with the competence of its orientation, and the competence is real.', 'RELAY 20261107 item 2 ([A] 16:59)')
 
+once('and Claudio Naranjo developed them into the enneatypes in use today. The claim in both is that a type is a fixation. This book keeps that claim. What this book adds is that a person holds two fixations, one in each realm, and that the nine types',
+     'and Claudio Naranjo developed them into what he called enneatypes. The claim in both is that a type is a fixation. That claim holds, with one addition: a person holds two fixations, one in each realm, and the nine types', 'Part 3 third paragraph (RELAY 20261107 item 1, yes 11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
