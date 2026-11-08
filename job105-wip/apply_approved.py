@@ -284,5 +284,8 @@ once('The fear is raised again when the person next meets the problem of the sal
 once('Everyone meets conflict; what differs',
      'Conflict comes to everyone; what differs', 'conflict meet (11-08)')
 
+once('practiced enough to meet a feeling as a feeling.',
+     'practiced enough to experience a feeling as a feeling.', 'feeling meet (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)

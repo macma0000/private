@@ -113,3 +113,4 @@ RULING 11-08 (supersedes the idiom exception above): "meet" is wrong where a per
 102. (the sale: "when [the problem of the sale next comes up]") "yes, next item"
 103. (*The range of detachment*: "[Conflict comes to everyone]") "yes, next item"
 104. (rung 3, "Others now meet a persona.") "leave it as before. a persona is more like a person than an object."
+105. (Chapter 18: "to [experience] a feeling as a feeling") "yes, next item"
