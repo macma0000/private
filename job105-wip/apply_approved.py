@@ -204,5 +204,8 @@ once('That symmetry matters for the asymmetry set out earlier. Equal and Identic
 once('The eight combinations are read the same way whichever orientation a person rests at, and for enthusiasm and caution that is right: a lean shades the orientation without altering what it does. A lean in detachment alters what it does.',
      'Everything about leans and wings holds for detachment just as it does for enthusiasm and caution. For enthusiasm and caution, a lean shades the orientation without altering what it does. A lean in detachment also alters what it does, in a way that has nothing to do with types or wings.', 'lean in detachment first paragraph (11-08)')
 
+once('In each realm one of the three orientations settles and hardens into habit. A hardened orientation is what this book calls a **fixation**.',
+     'In each realm, one of the three orientations hardens into habit. A hardened orientation is called a **fixation**.', 'Part 3 first paragraph (11-08)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
