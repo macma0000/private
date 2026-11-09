@@ -94,7 +94,7 @@ once("In the case of each orientation, what the step requires is what such a per
 
 insert_after_heading("### Backward", 'Under stress, a person shifts a little toward the orientation one step back, and lands in a poor version of it: an enthusiastic person collapses into numb withdrawal, a detached person falls into anxious worry, and a cautious person panics into recklessness.', "Backward opening (11-05)")
 
-insert_after_heading("### The two faces of detachment", 'Detachment borders caution at one end and enthusiasm at the other, and a detached person handles a fear differently near each end: near caution the person looks at the fear, and near enthusiasm the person turns away from the fear.', "Two faces opening (11-05)")
+insert_after_heading("### The two faces of detachment", 'Detachment lies between caution and enthusiasm, and a detached person can lean toward either. A detached person leaning toward caution looks at a fear, and a detached person leaning toward enthusiasm turns away from the fear.', "Two faces opening (11-05)")
 
 insert_after_heading("### The smallest scale", 'A thought passes through three places, one for each orientation, in the forward order, and when one thought ends the next thought begins. Thoughts run this way in everyone, whatever their type, many times a minute, and anyone can check the claim in their own thinking.', "Smallest scale opening (11-05)")
 once("It is a fact, completing many times an hour, in everyone", "It is a fact, completing many times a minute, in everyone", "line 788 (11-05)")
@@ -296,6 +296,53 @@ once('**Pure detachment.** For enthusiasm and caution, having no lean is simply 
 
 once('Everything about leans and wings holds for detachment just as it does for enthusiasm and caution. For enthusiasm and caution, a lean shades the orientation without altering what it does. A lean in detachment also alters what it does, in a way that has nothing to do with types or wings. Leaning back toward caution, detachment keeps the realm in view. Leaning forward toward enthusiasm, detachment has already turned toward what attracts, and anything that would disturb the attraction is not noticed. Which face appears',
      "For enthusiasm and caution, a lean shades the orientation without changing what the orientation does. A lean in detachment changes how a detached person reaches peace. Every thought passes through a detached phase, with a caution end and an enthusiasm end, and a detached person's lean sets how much attention each end gets. While nothing is disturbing a detached person, the whole realm is open to noticing, whichever way the person leans. When something disturbs a person leaning toward caution, the caution end of the detached phase gets the most attention, and the person looks at the disturbance and tries to solve it. When something disturbs a person leaning toward enthusiasm, the enthusiasm end of the detached phase gets the most attention, and the person wants the disturbance gone, reaches for a distraction, and at such a moment notices very little. Which face appears", 'Ch11 lean in detachment (RELAY 20261108b item 3, yes 11-09)')
+
+once('Because they arrive by way of understanding, they enter detachment at its caution end.',
+     'Because they arrive by way of understanding, they come to detachment leaning toward caution.', 'ends sweep (11-09)')
+once('What differs between the two faces of detachment is what happens to the fear. At the caution end, the person looks at the fear and wants to solve what is disturbing them. Nearer the enthusiasm end, the person simply wants the fear to go away, and turns away from the fear. When a fear has grown to be more than the person can bear, the person panics at the caution end. Panic raises a want to be rid of the fear, and the want carries the person to the enthusiasm end, where the fear is no longer noticed.',
+     'What differs between the two faces of detachment is what happens to the fear. A person leaning toward caution looks at the fear and wants to solve what is disturbing them. A person leaning toward enthusiasm simply wants the fear to go away, and turns away from the fear. When a fear has grown to be more than the person can bear, the person panics at the caution end of the detached phase. Panic raises a want to be rid of the fear, and the want carries the fear on to the enthusiasm end of the detached phase, where the fear is no longer noticed.', 'ends sweep (11-09)')
+once('A process reaches the detached phase at the caution end, where fears are still noticed, and leaves by the enthusiasm end, where the turning away has gone furthest.',
+     'A process comes first to the caution end of the detached phase, where fears are still noticed, and leaves the phase by the enthusiasm end, where the turning away has gone furthest.', 'ends sweep (11-09)')
+once('A burial crosses the detached phase. At the caution end, the fear is still in view, and the caution end is where the fear is found to be more than the person can bear. Panic raises a want to be rid of the fear, and the want carries the person toward the enthusiasm end.',
+     'A burial crosses the detached phase. At the caution end of the detached phase, the fear is still in view, and the caution end is where the fear is found to be more than the person can bear. Panic raises a want to be rid of the fear, and the want carries the fear toward the enthusiasm end.', 'ends sweep (11-09)')
+once('A detached person at the caution end of the detached phase can settle the fear.',
+     'A detached person can settle the fear at the caution end of the detached phase.', 'ends sweep (11-09)')
+once('A person near the enthusiasm end of the detached phase runs the unease loop in a different way. Suppose the person waiting on the house sale leans toward the enthusiasm end.',
+     'A detached person leaning toward enthusiasm runs the unease loop in a different way. Suppose the person waiting on the house sale leans toward enthusiasm.', 'ends sweep (11-09)')
+once('The failures at the enthusiasm end show. The competence at the caution end stays quiet.',
+     'The failures of a person leaning toward enthusiasm show. The competence of a person leaning toward caution stays quiet.', 'ends sweep (11-09)')
+once('Near the caution end what a person wants is to be rid of the discomfort',
+     'What a person leaning toward caution wants is to be rid of the discomfort', 'ends sweep (11-09)')
+once('When something does disturb a person near the caution end, peace means',
+     'When something does disturb a person leaning toward caution, peace means', 'ends sweep (11-09)')
+once('Near the enthusiasm end what a person reaches for is a distraction',
+     'What a person leaning toward enthusiasm reaches for is a distraction', 'ends sweep (11-09)')
+once('When something does disturb a person near the enthusiasm end, peace means',
+     'When something does disturb a person leaning toward enthusiasm, peace means', 'ends sweep (11-09)')
+once('so a person near the enthusiasm end notices less at such a moment',
+     'so a person leaning toward enthusiasm notices less at such a moment', 'ends sweep (11-09)')
+once('A process reaches the caution end first and the enthusiasm end after.',
+     'A process reaches the caution end of the detached phase first and the enthusiasm end after.', 'ends sweep (11-09)')
+once('At the caution end an enthusiastic person often gives up on a fear',
+     'At the caution end of the detached phase an enthusiastic person often gives up on a fear', 'ends sweep (11-09)')
+once('At the caution end a cautious person may work a fear through',
+     'At the caution end of the detached phase a cautious person may work a fear through', 'ends sweep (11-09)')
+once('A detached person leaning toward caution gives the caution end the most attention, so a fear is more likely to be settled.',
+     'A detached person leaning toward caution gives the caution end of the detached phase the most attention, so a fear is more likely to be settled.', 'ends sweep (11-09)')
+once('A detached person leaning toward enthusiasm gives the caution end little attention, so a fear is less likely to be settled.',
+     'A detached person leaning toward enthusiasm gives the caution end of the detached phase little attention, so a fear is less likely to be settled.', 'ends sweep (11-09)')
+once('from the caution end of detachment, through caution, through appetite, to the enthusiasm end.',
+     'from detachment leaning toward caution, through caution, through appetite, to detachment leaning toward enthusiasm.', 'ends sweep (11-09)')
+once('run in the same direction, from the caution end to the enthusiasm end —',
+     'run in the same direction, from detachment leaning toward caution to detachment leaning toward enthusiasm —', 'ends sweep (11-09)')
+once('from the enthusiasm end of detachment the next step is appetite again.',
+     'from detachment leaning toward enthusiasm the next step is appetite again.', 'ends sweep (11-09)')
+once('A detached person leaning toward caution gives the caution end the most attention, and an arriving fear',
+     'A detached person leaning toward caution gives the caution end of the detached phase the most attention, and an arriving fear', 'ends sweep (11-09)')
+once('At the caution end a person is already willing to look at an arriving fear',
+     'At the caution end of the detached phase a person is already willing to look at an arriving fear', 'ends sweep (11-09)')
+once('The skill at the enthusiasm end is the harder of the two to use',
+     'The skill at the enthusiasm end of the detached phase is the harder of the two to use', 'ends sweep (11-09)')
 
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
