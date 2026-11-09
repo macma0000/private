@@ -344,5 +344,10 @@ once('At the caution end a person is already willing to look at an arriving fear
 once('The skill at the enthusiasm end is the harder of the two to use',
      'The skill at the enthusiasm end of the detached phase is the harder of the two to use', 'ends sweep (11-09)')
 
+once('Two things have to be put together. The orientations are in hand already: the orientation a person holds',
+     'Two things have to be put together. One is the orientation a person holds', 'Ch17 introduction (11-09)')
+once("The scale itself is not this book's. It is the Levels of Development described by Don Riso and Russ Hudson, borrowed here and used as a measure of depth.",
+     'The scale itself is the Levels of Development described by Don Riso and Russ Hudson, used as a measure of depth.', 'Ch17 introduction (11-09)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
