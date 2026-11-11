@@ -355,5 +355,7 @@ once('## Chapter 18: Falling and Rising\n\n### What actually descends',
 once('### Why this does not take everyone to the bottom\n\nSet out so far, the mechanism has a hole in it. The lower a person is,',
      "### Why this does not take everyone to the bottom\n\nMost people stay in the middle levels for decades, because a fall is slow and because the consequences of a fall push back. The pain that consequences bring keeps rising until staying as the person is becomes unbearable, and only then is the person open to trying something new. Everything a person turns away from is still taken in and laid down, and that is how recognition of the person's own condition slowly builds.\n\nThe lower a person is,", 'Why this does not take everyone opening and cut (11-11)')
 
+insert_after_heading("### What reaches someone who cannot see their own condition", "A person far down still feels consequences, and another person who can see the person's condition can help in two ways: by steadying the person, and by giving the truth about the person's condition a little at a time. Urging does harm, because urging is pressure, and pressure lowers how much a person can bear.", "What reaches someone opening (11-11)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
