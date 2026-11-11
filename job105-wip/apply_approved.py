@@ -357,5 +357,7 @@ once('### Why this does not take everyone to the bottom\n\nSet out so far, the m
 
 insert_after_heading("### What reaches someone who cannot see their own condition", "A person far down still feels consequences, and another person who can see the person's condition can help in two ways: by steadying the person, and by giving the truth about the person's condition a little at a time. Urging does harm, because urging is pressure, and pressure lowers how much a person can bear.", "What reaches someone opening (11-11)")
 
+insert_after_heading("### A skill for handling fear", 'The capacity to bear discomfort can be built on any kind of pain, as one woman found when she learned to stay with extreme migraine pain. A skill for handling fear can also be taught, and the skill goes in most easily in a child, before the child has any occasion to use the skill. What motivates a person to take up such a skill is the pain of life not working, weighed against the imagined pain associated with facing buried material. The skill does not move a person up the levels by itself; it changes how often a fear is handled instead of blocked, and the change, when it comes, tends to come suddenly after a long flat stretch.', "A skill for handling fear opening (11-11)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
