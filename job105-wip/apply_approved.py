@@ -367,5 +367,7 @@ once("### The summit, and what counterfeits it\n\nAt the top there is nothing ab
 once('It is experienced as clarity, and from where they stand that is precisely what it is.',
      'It is experienced as clarity.', 'Five clarity (RELAY 20261110, [A] 17:20, 17:23)')
 
+insert_after_heading("### The summit, and what counterfeits it", "Something else is often mistaken for the clarity at the top: detachment in one realm, which can look from outside like clarity in both. The detachment may come with a person's type, or from training for thoughts about one realm, and either way the detachment is in one realm only. A person may present a trained steadiness as the summit on purpose, to be admired or to pursue wants the training never touched.", "Summit opening (RELAY 20261110b, [A] 17:56)")
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
