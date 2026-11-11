@@ -143,3 +143,5 @@ SOURCES (for a sources list): Riso, with Hudson, *Personality Types*, revised ed
 128. (*The oldest material*: the buried, preverbal fear of helplessness) "yes, next item"
 129. (what is laid down: thoughts and events, at four sites) ""even events the person never noticed"->"even events taken in but never noticed"?" / "yes, next item"
 130. (Riso and Hudson's secondary fears credited with their reason, and the book's account kept as its own) "yes, next item"
+131. (citations: direct quotations in quotation marks with the page; paraphrases named only; the secondary-fears reason quoted with p. 472) "yes, next item"
+RULING 11-11: quotations from a source carry quotation marks and the page; paraphrases name the source only. For the style guide's next letter.
