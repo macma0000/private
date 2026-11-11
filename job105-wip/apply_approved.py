@@ -372,5 +372,8 @@ insert_after_heading("### The summit, and what counterfeits it", "Something else
 once('It could not be held in any case, and the reason is the same one that runs the whole book.',
      'It could not be held in any case.', 'summit book-reference cut (11-11)')
 
+once('The signal works by producing its copy in whoever is near. All of this is automatic, and none of it is a fault.\n\n',
+     "The signal works by producing its copy in whoever is near. All of this is automatic, and none of it is a fault.\n\nSome of an infant's fears are instinctual: a situation sets them off directly, with no want behind them. The fear of being abandoned may be one of them. An infant can do nothing about such a fear, so relief has to come from a parent. When the fear is repeated and no relief comes, the fear is buried, and a buried fear from infancy can have major consequences in adult life.\n\n", 'Two channels instinctual fears (RELAY 20261103, 11-11)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
