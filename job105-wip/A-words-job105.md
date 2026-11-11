@@ -146,3 +146,5 @@ SOURCES (for a sources list): Riso, with Hudson, *Personality Types*, revised ed
 131. (citations: direct quotations in quotation marks with the page; paraphrases named only; the secondary-fears reason quoted with p. 472) "yes, next item"
 RULING 11-11: quotations from a source carry quotation marks and the page; paraphrases name the source only. For the style guide's next letter.
 132. (whether to close out) "i proposed adding the A, B, Z names wherever enthusiastic, cautious and detached fixations and phases are mentioned. is that still on the to do list?" / (told: closures Part G, Part 3 only, pilot first, ~220 sites; asked about scope and timing) "keep it as you said." — Part 3 only, in its own drafting session after the coherence run.
+133. "locally. coherence." — job106 runs locally from the zip; its kind is coherence.
+134. (three register repairs: "holding on to an orientation keeps a person from the orientation ahead"; "A person more deeply caught stays at their own orientation."; "Directed at oneself") "yes. how can i talk to older sessions in this setup?"
