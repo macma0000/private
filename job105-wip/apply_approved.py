@@ -352,5 +352,8 @@ once("The scale itself is not this book's. It is the Levels of Development descr
 once('## Chapter 18: Falling and Rising\n\n### What actually descends',
      '## Chapter 18: Falling and Rising\n\nMost people know someone who has slowly become harder to reach and less able to see what is happening to them, and someone who has slowly become freer. Both changes happen one fear at a time. A person falls when fears are turned away from, and with each fall the person notices less and can bear less. Nobody watches themselves go down, and yet most people stop somewhere in the middle, because the consequences of falling push back. A person rises when a buried fear is faced, and a skill for handling fear helps make the facing possible. Trying harder does not change a person, because whatever a person does about their own condition, the person does it as they already are.\n\n### What actually descends', 'Ch18 introduction (11-11)')
 
+once('### Why this does not take everyone to the bottom\n\nSet out so far, the mechanism has a hole in it. The lower a person is,',
+     "### Why this does not take everyone to the bottom\n\nMost people stay in the middle levels for decades, because a fall is slow and because the consequences of a fall push back. The pain that consequences bring keeps rising until staying as the person is becomes unbearable, and only then is the person open to trying something new. Everything a person turns away from is still taken in and laid down, and that is how recognition of the person's own condition slowly builds.\n\nThe lower a person is,", 'Why this does not take everyone opening and cut (11-11)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)

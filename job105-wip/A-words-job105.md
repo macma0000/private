@@ -123,3 +123,4 @@ TO SHOW HIM: relay item 3 (Chapter 11's first paragraph, no explicit yes on the 
 110. (the sweep under the 11-08 rule, about 25 paragraphs) "do them all. also, i will defer checking them until i read the whole book." — applied without showing each; every changed paragraph to be listed in the changes file for his read-through.
 111. (Chapter 17: no summary and no section openings, on Job105's judgment; its introduction loses "The orientations are in hand already:", "is not this book's. It" and "borrowed here and") "yes, next item"
 112. (Chapter 18's introduction, "Most people know someone who has slowly become harder to reach ...") "yes, next item"
+113. (Chapter 18: openings for four long sections only, on Job105's judgment; *Why this does not take everyone to the bottom* opening, and "Set out so far, the mechanism has a hole in it." cut) "yes, next item"
