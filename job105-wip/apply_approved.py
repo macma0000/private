@@ -349,5 +349,8 @@ once('Two things have to be put together. The orientations are in hand already: 
 once("The scale itself is not this book's. It is the Levels of Development described by Don Riso and Russ Hudson, borrowed here and used as a measure of depth.",
      'The scale itself is the Levels of Development described by Don Riso and Russ Hudson, used as a measure of depth.', 'Ch17 introduction (11-09)')
 
+once('## Chapter 18: Falling and Rising\n\n### What actually descends',
+     '## Chapter 18: Falling and Rising\n\nMost people know someone who has slowly become harder to reach and less able to see what is happening to them, and someone who has slowly become freer. Both changes happen one fear at a time. A person falls when fears are turned away from, and with each fall the person notices less and can bear less. Nobody watches themselves go down, and yet most people stop somewhere in the middle, because the consequences of falling push back. A person rises when a buried fear is faced, and a skill for handling fear helps make the facing possible. Trying harder does not change a person, because whatever a person does about their own condition, the person does it as they already are.\n\n### What actually descends', 'Ch18 introduction (11-11)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
