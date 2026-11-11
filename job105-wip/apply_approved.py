@@ -384,5 +384,8 @@ once('Ignoring does not move a person down, because an ignored fear stays in vie
 once('*Given up on* — the want behind the fear is dropped, and with the want gone the fear is gone with it. Giving up a want sometimes leaves something behind.',
      '*Given up on* — the want behind the fear is dropped, and with the want gone the fear is gone with it. Where the want is to be rid of something, giving up the want means accepting that the thing may come. An instinctual fear has no want behind it, so an instinctual fear cannot be given up on. Giving up a want sometimes leaves something behind.', 'Given up on (RELAY 20261103 item 3, yes 11-11)')
 
+once('Ignoring does not leave the fear, and it does not leave the want behind the fear.',
+     'Ignoring does not leave the fear, and where a want is behind the fear, ignoring does not leave the want either.', 'line 1290 (RELAY 20261103 item 4, yes 11-11)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)

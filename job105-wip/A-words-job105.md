@@ -139,3 +139,4 @@ FOR JOB99: check in the author record where "long stretches followed by a sudden
 SOURCES (for a sources list): Riso, with Hudson, *Personality Types*, revised edition 1996, ISBN 0-395-79867-1, p. 470 (basic fears as variations of the fear of nonbeing, of not existing), p. 472 (Secondary Fear), p. 474 (succumbs to the fear ... compensating desire). Riso and Hudson, *Understanding the Enneagram*, revised edition 2000, ISBN 0-618-00415-7, p. 152.
 125. (the succumbing paragraph) "can we say "Succumbing to a fear (they don't define it) is turning away from the fear:..." and omit the previous sentence?" / (shown "(which Riso and Hudson do not define)") "yes, next item"
 126. (the *Given up on* entry: a fear whose want is to be rid of something, and an instinctual fear) "yes, next item"
+127. (line 1290: "where a want is behind the fear, ignoring does not leave the want either") "yes, next item"
