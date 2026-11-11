@@ -390,5 +390,14 @@ once('Ignoring does not leave the fear, and it does not leave the want behind th
 once('So where fear was present, intuition cannot reach the oldest material either.\n\n',
      'So where fear was present, intuition cannot reach the oldest material either.\n\nAn instinctual fear buried in infancy is like any later buried fear, hard to notice. The fear of helplessness buried in infancy is also preverbal, so the fear is hard to put into words. Even so, the fear can come back into view, be faced and be worked through, with the felt quality as the only handle.\n\n', 'oldest material (RELAY 20261103 item 3, yes 11-11)')
 
+once('### What previous thoughts have laid down',
+     '### What previous thoughts and events have laid down', 'laid down: thoughts and events (RELAY 20261103c point 13, yes 11-11)')
+once('The next thought arises out of what previous thoughts have laid down. Some of what was laid down',
+     'The next thought arises out of what previous thoughts and events have laid down. Events lay things down too, even events taken in but never noticed. Some of what was laid down', 'laid down: thoughts and events (RELAY 20261103c point 13, yes 11-11)')
+once('Call what they have laid down the **mental deposits**.',
+     'Call what thoughts and events have laid down the **mental deposits**.', 'laid down: thoughts and events (RELAY 20261103c point 13, yes 11-11)')
+once('The next thought arises out of what earlier thoughts have laid down.',
+     'The next thought arises out of what earlier thoughts and events have laid down.', 'laid down: thoughts and events (RELAY 20261103c point 13, yes 11-11)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)

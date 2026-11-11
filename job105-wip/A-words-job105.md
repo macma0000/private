@@ -141,3 +141,4 @@ SOURCES (for a sources list): Riso, with Hudson, *Personality Types*, revised ed
 126. (the *Given up on* entry: a fear whose want is to be rid of something, and an instinctual fear) "yes, next item"
 127. (line 1290: "where a want is behind the fear, ignoring does not leave the want either") "yes, next item"
 128. (*The oldest material*: the buried, preverbal fear of helplessness) "yes, next item"
+129. (what is laid down: thoughts and events, at four sites) ""even events the person never noticed"->"even events taken in but never noticed"?" / "yes, next item"
