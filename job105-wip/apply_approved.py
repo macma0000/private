@@ -381,5 +381,8 @@ once('Descent is fear turned into want, over and over, each level a strategy for
 once('Ignoring does not move a person down, because an ignored fear stays in view.\n\n',
      'Ignoring does not move a person down, because an ignored fear stays in view.\n\nRiso and Hudson describe the same step as succumbing to a fear: a person who "succumbs to the fear" at one level "will pursue a compensating desire" at the next (*Personality Types*, p. 474). Succumbing to a fear (which Riso and Hudson do not define) is turning away from the fear: the fear is not settled, and the person turns away from the fear each time the fear comes up, until the fear is no longer noticed. Turning away is what moves a person down.\n\n', 'succumbing paragraph (RELAY 20261111b, yes 11-11)')
 
+once('*Given up on* — the want behind the fear is dropped, and with the want gone the fear is gone with it. Giving up a want sometimes leaves something behind.',
+     '*Given up on* — the want behind the fear is dropped, and with the want gone the fear is gone with it. Where the want is to be rid of something, giving up the want means accepting that the thing may come. An instinctual fear has no want behind it, so an instinctual fear cannot be given up on. Giving up a want sometimes leaves something behind.', 'Given up on (RELAY 20261103 item 3, yes 11-11)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
