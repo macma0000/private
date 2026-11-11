@@ -140,3 +140,4 @@ SOURCES (for a sources list): Riso, with Hudson, *Personality Types*, revised ed
 125. (the succumbing paragraph) "can we say "Succumbing to a fear (they don't define it) is turning away from the fear:..." and omit the previous sentence?" / (shown "(which Riso and Hudson do not define)") "yes, next item"
 126. (the *Given up on* entry: a fear whose want is to be rid of something, and an instinctual fear) "yes, next item"
 127. (line 1290: "where a want is behind the fear, ignoring does not leave the want either") "yes, next item"
+128. (*The oldest material*: the buried, preverbal fear of helplessness) "yes, next item"

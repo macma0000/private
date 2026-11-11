@@ -387,5 +387,8 @@ once('*Given up on* — the want behind the fear is dropped, and with the want g
 once('Ignoring does not leave the fear, and it does not leave the want behind the fear.',
      'Ignoring does not leave the fear, and where a want is behind the fear, ignoring does not leave the want either.', 'line 1290 (RELAY 20261103 item 4, yes 11-11)')
 
+once('So where fear was present, intuition cannot reach the oldest material either.\n\n',
+     'So where fear was present, intuition cannot reach the oldest material either.\n\nAn instinctual fear buried in infancy is like any later buried fear, hard to notice. The fear of helplessness buried in infancy is also preverbal, so the fear is hard to put into words. Even so, the fear can come back into view, be faced and be worked through, with the felt quality as the only handle.\n\n', 'oldest material (RELAY 20261103 item 3, yes 11-11)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
