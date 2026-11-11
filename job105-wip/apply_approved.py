@@ -399,5 +399,8 @@ once('Call what they have laid down the **mental deposits**.',
 once('The next thought arises out of what earlier thoughts have laid down.',
      'The next thought arises out of what earlier thoughts and events have laid down.', 'laid down: thoughts and events (RELAY 20261103c point 13, yes 11-11)')
 
+once('Riso and Hudson call the fear at the head of the chain the basic fear. Every fear further down is a fear of failing at the strategy taken up to cope with the fear one level above.',
+     'Riso and Hudson call the fear at the head of the chain the basic fear, and the fears below it secondary fears, which arise because the qualities that contradict the self-image must be defended against. Each secondary fear is also a fear of failing at the strategy taken up to cope with the fear one level above.', 'secondary fears (RELAY 20261111b open item, yes 11-11)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)
