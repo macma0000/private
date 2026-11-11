@@ -1,0 +1,61 @@
+  326  ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519_github -C "my-server-github"
+  327  cat ~/.ssh/id_ed25519_github.pub
+  328  ssh -T git@github.com
+  329  cat ~/.ssh/id_ed25519_github.pub
+  330  ssh -T git@github.com
+  331  mkdir git-claude
+  332  cd git-claude
+  333  git init
+  334  git add .
+  335  git commit -m "Initial commit"
+  336  git branch -M main
+  337  git remote add github git@github.com:macma0000/YOUR-REPO.git
+  338  git push -u github main
+  339  sudo apt install git
+  340  git init
+  341  git add .
+  342  git commit -m "Initial commit"
+  343  git branch -M main
+  344  git remote add github git@github.com:macma0000/private.git
+  345  git push -u github main
+  346  git config --global user.email "mac34@sublogical.com"
+  347  git config --global user.name "macma0000"
+  348  git init
+  349  git add .
+  350  git commit -m "Initial commit"
+  351  git branch -M main
+  352  git remote add github git@github.com:macma0000/private.git
+  353  git push -u github main
+  354  cd ~/git-claude
+  356  git add README.md
+  357  git commit -m "Initial commit"
+  358  git push -u github main
+  359  cd ~/git-claude
+  360  git add .
+  361  git commit -m "Add book draft"
+  362  git push github main
+  363  git add .
+  364  git push github main
+  367  git commit
+  368  git add job103-out-20261101.zip 
+  369  git push github main
+  370  git commit
+  371  git pull
+  372  git add RELAY-from-job99-20261103
+  373  git add RELAY-from-job99-20261103.md
+  374  git push github main
+  375  git commmit
+  376  git commit
+  377  git push github main
+  378  git add .
+  379  git commit
+  380  git push github main
+  381  git pull
+  383  git fetch github
+  384  git show github/claude/elegant-ramanujan-4bsrnt:job105-wip/DRAFT-chapter4-new-order-job105.md > ../vault/DRAFT-chapter4-new-order-job105.md
+  385  git show github/claude/elegant-ramanujan-4bsrnt:job105-wip/DRAFT-chapter4-new-order-job105.md > DRAFT-chapter4-new-order-job105.md
+  386  git add .
+  387  git commit
+  388  git push github main
+  389  git pull
+  403  history | grep git > ~/git.txt
