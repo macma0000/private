@@ -359,5 +359,8 @@ insert_after_heading("### What reaches someone who cannot see their own conditio
 
 insert_after_heading("### A skill for handling fear", 'The capacity to bear discomfort can be built on any kind of pain, as one woman found when she learned to stay with extreme migraine pain. A skill for handling fear can also be taught, and the skill goes in most easily in a child, before the child has any occasion to use the skill. What motivates a person to take up such a skill is the pain of life not working, weighed against the imagined pain associated with facing buried material. The skill does not move a person up the levels by itself; it changes how often a fear is handled instead of blocked, and the change, when it comes, tends to come suddenly after a long flat stretch.', "A skill for handling fear opening (11-11)")
 
+once('All of that is method. What it is for can now be said, and it has been at stake since the first fear was turned away from.',
+     'Every method for handling fear serves one end, which has been at stake since a fear was first turned away from: undoing the blocked fears.', 'What is actually being undone first paragraph (11-11)')
+
 open(OUT, "w", encoding="utf-8").write(t)
 print("ok", OUT)

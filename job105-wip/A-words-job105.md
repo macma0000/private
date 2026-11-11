@@ -127,3 +127,4 @@ TO SHOW HIM: relay item 3 (Chapter 11's first paragraph, no explicit yes on the 
 114. (opening of *What reaches someone who cannot see their own condition*) "yes, next item"
 115. (opening of *A skill for handling fear*) "i'm curious where the long flat stretch came from. i agree but i don't think i ever said so. is that from wisdom that clause already has?" Told it is the section's own and carried from book 1 (rev2-0814t.md line 1632); provenance in the record unchecked. "yes, next item" / "i mean keep it in."
 FOR JOB99: check in the author record where "long stretches followed by a sudden shift" (book 1 line 1632, book 2 since at least 09-14) came from; [A] does not recall saying it, agrees with it, and kept it.
+116. (*What is actually being undone*: no opening; its first paragraph rewritten, "[Every method for handling fear serves one end, which has been at stake since a fear was first turned away from: undoing the blocked fears.]") "yes, next item"
